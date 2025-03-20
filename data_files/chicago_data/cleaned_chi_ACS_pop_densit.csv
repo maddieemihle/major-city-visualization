@@ -1,0 +1,95 @@
+Label (Grouping),Illinois Total Population,Illinois %,Chicago Metro Total Population,Chicago Metro %
+SEX AND AGE,,,,
+    Total population,"12,716,164","12,716,164","9,478,801","9,478,801"
+        Male,"6,247,083",49.1%,"4,640,471",49.0%
+        Female,"6,469,081",50.9%,"4,838,330",51.0%
+        Sex ratio (males per 100 females),96.6,(X),95.9,(X)
+        Under 5 years,"755,518",5.9%,"568,544",6.0%
+        5 to 9 years,"768,804",6.0%,"580,564",6.1%
+        10 to 14 years,"829,779",6.5%,"629,595",6.6%
+        15 to 19 years,"831,088",6.5%,"620,031",6.5%
+        20 to 24 years,"844,275",6.6%,"617,600",6.5%
+        25 to 34 years,"1,763,829",13.9%,"1,364,955",14.4%
+        35 to 44 years,"1,638,700",12.9%,"1,260,820",13.3%
+        45 to 54 years,"1,636,992",12.9%,"1,243,961",13.1%
+        55 to 59 years,"864,033",6.8%,"639,077",6.7%
+        60 to 64 years,"792,720",6.2%,"570,387",6.0%
+        65 to 74 years,"1,146,641",9.0%,"808,813",8.5%
+        75 to 84 years,"573,017",4.5%,"392,861",4.1%
+        85 years and over,"270,768",2.1%,"181,593",1.9%
+        Median age (years),38.3,(X),37.7,(X)
+        Under 18 years,"2,855,433",22.5%,"2,160,390",22.8%
+        16 years and over,"10,193,604",80.2%,"7,572,022",79.9%
+        18 years and over,"9,860,731",77.5%,"7,318,411",77.2%
+        21 years and over,"9,363,657",73.6%,"6,962,416",73.5%
+        62 years and over,"2,443,504",19.2%,"1,706,877",18.0%
+        65 years and over,"1,990,426",15.7%,"1,383,267",14.6%
+        18 years and over,"9,860,731","9,860,731","7,318,411","7,318,411"
+            Male,"4,789,667",48.6%,"3,539,774",48.4%
+            Female,"5,071,064",51.4%,"3,778,637",51.6%
+            Sex ratio (males per 100 females),94.5,(X),93.7,(X)
+        65 years and over,"1,990,426","1,990,426","1,383,267","1,383,267"
+            Male,"868,794",43.6%,"599,231",43.3%
+            Female,"1,121,632",56.4%,"784,036",56.7%
+            Sex ratio (males per 100 females),77.5,(X),76.4,(X)
+RACE,,,,
+    Total population,"12,716,164","12,716,164","9,478,801","9,478,801"
+        One race,"12,176,612",95.8%,"9,022,447",95.2%
+        Two or more races,"539,552",4.2%,"456,354",4.8%
+        One race,"12,176,612",95.8%,"9,022,447",95.2%
+            White,"8,874,067",69.8%,"6,031,584",63.6%
+            Black or African American,"1,796,660",14.1%,"1,558,492",16.4%
+            American Indian and Alaska Native,"33,972",0.3%,"28,695",0.3%
+                Cherokee tribal grouping,"2,649",0.0%,"1,809",0.0%
+                Chippewa tribal grouping,"1,399",0.0%,"1,094",0.0%
+                Navajo tribal grouping,418,0.0%,354,0.0%
+                Sioux tribal grouping,445,0.0%,217,0.0%
+            Asian,"709,567",5.6%,"641,801",6.8%
+                Asian Indian,"248,679",2.0%,"229,003",2.4%
+                Chinese,"133,138",1.0%,"115,557",1.2%
+                Filipino,"121,406",1.0%,"114,012",1.2%
+                Japanese,"18,419",0.1%,"16,475",0.2%
+                Korean,"57,487",0.5%,"51,891",0.5%
+                Vietnamese,"32,801",0.3%,"28,118",0.3%
+                Other Asian,"97,637",0.8%,"86,745",0.9%
+            Native Hawaiian and Other Pacific Islander,"5,196",0.0%,"3,865",0.0%
+                Native Hawaiian,"2,106",0.0%,"1,220",0.0%
+                Chamorro,685,0.0%,525,0.0%
+                Samoan,968,0.0%,948,0.0%
+                Other Pacific Islander,"1,437",0.0%,"1,172",0.0%
+            Some other race,"757,150",6.0%,"758,010",8.0%
+        Two or more races,"539,552",4.2%,"456,354",4.8%
+            White and Black or African American,"112,976",0.9%,"74,112",0.8%
+            White and American Indian and Alaska Native,"41,998",0.3%,"28,412",0.3%
+            White and Asian,"88,773",0.7%,"76,929",0.8%
+            Black or African American and American Indian and Alaska Native,"6,457",0.1%,"5,241",0.1%
+Race alone or in combination with one or more other races,,,,
+    Total population,"12,716,164","12,716,164","9,478,801","9,478,801"
+        White,"9,367,474",73.7%,"6,446,296",68.0%
+        Black or African American,"1,957,092",15.4%,"1,673,999",17.7%
+        American Indian and Alaska Native,"104,386",0.8%,"81,125",0.9%
+        Asian,"828,847",6.5%,"745,012",7.9%
+        Native Hawaiian and Other Pacific Islander,"16,535",0.1%,"12,188",0.1%
+        Some other race,"1,013,633",8.0%,"1,003,673",10.6%
+HISPANIC OR LATINO AND RACE,,,,
+    Total population,"12,716,164","12,716,164","9,478,801","9,478,801"
+        Hispanic or Latino (of any race),"2,190,696",17.2%,"2,107,040",22.2%
+            Mexican,"1,709,245",13.4%,"1,639,211",17.3%
+            Puerto Rican,"203,537",1.6%,"207,526",2.2%
+            Cuban,"27,916",0.2%,"25,747",0.3%
+            Other Hispanic or Latino,"249,998",2.0%,"234,556",2.5%
+        Not Hispanic or Latino,"10,525,468",82.8%,"7,371,761",77.8%
+            White alone,"7,737,459",60.8%,"4,968,896",52.4%
+            Black or African American alone,"1,766,586",13.9%,"1,531,675",16.2%
+            American Indian and Alaska Native alone,"13,301",0.1%,"8,962",0.1%
+            Asian alone,"702,457",5.5%,"635,268",6.7%
+            Native Hawaiian and Other Pacific Islander alone,"3,305",0.0%,"2,380",0.0%
+            Some other race alone,"24,851",0.2%,"21,442",0.2%
+            Two or more races,"277,509",2.2%,"203,138",2.1%
+                Two races including Some other race,"25,404",0.2%,"21,166",0.2%
+"                Two races excluding Some other race, and Three or more races","252,105",2.0%,"181,972",1.9%
+Total housing units,"5,373,385",(X),"3,856,019",(X)
+"CITIZEN, VOTING AGE POPULATION",,,,
+"    Citizen, 18 and over population","9,064,396","9,064,396","6,580,515","6,580,515"
+        Male,"4,377,685",48.3%,"3,159,580",48.0%
+        Female,"4,686,711",51.7%,"3,420,935",52.0%
