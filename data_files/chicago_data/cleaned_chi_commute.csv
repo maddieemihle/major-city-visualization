@@ -1,0 +1,58 @@
+Means of Transportation,Illinois Total Commute Time,Male Total,Female Total,Chicago Metro Total,Chicago Male Total,Chicago Female Total
+Workers 16 years and over,"6,129,176","3,211,679","2,917,497","4,654,790","2,453,220","2,201,570"
+"        Car, truck, or van",79.3%,79.7%,78.9%,76.1%,76.7%,75.4%
+            Drove alone,71.5%,71.9%,71.1%,68.3%,69.1%,67.5%
+            Carpooled,7.8%,7.8%,7.8%,7.7%,7.5%,7.9%
+                In 2-person carpool,5.9%,5.9%,5.9%,5.8%,5.7%,6.0%
+                In 3-person carpool,1.1%,1.1%,1.2%,1.2%,1.1%,1.2%
+                In 4-or-more person carpool,0.7%,0.7%,0.7%,0.7%,0.7%,0.8%
+"            Workers per car, truck, or van",1.06,1.06,1.06,1.06,1.06,1.06
+        Public transportation (excluding taxicab),8.8%,8.5%,9.2%,11.3%,10.8%,11.9%
+        Walked,2.8%,2.8%,2.8%,2.9%,2.8%,2.9%
+        Bicycle,0.6%,0.8%,0.3%,0.6%,0.9%,0.4%
+"        Taxicab, motorcycle, or other means",1.2%,1.3%,1.1%,1.3%,1.4%,1.3%
+        Worked from home,7.2%,6.9%,7.6%,7.8%,7.5%,8.2%
+        Worked in state of residence,96.4%,96.0%,96.9%,96.8%,96.2%,97.5%
+            Worked in county of residence,73.7%,71.1%,76.4%,74.3%,71.6%,77.2%
+            Worked outside county of residence,22.8%,24.9%,20.5%,22.5%,24.5%,20.3%
+        Worked outside state of residence,3.6%,4.0%,3.1%,3.2%,3.8%,2.5%
+        Living in a place,88.5%,88.1%,89.0%,93.6%,93.4%,93.9%
+            Worked in place of residence,35.0%,33.0%,37.3%,35.9%,34.1%,37.9%
+            Worked outside place of residence,53.5%,55.1%,51.7%,57.7%,59.3%,56.0%
+        Not living in a place,11.5%,11.9%,11.0%,6.4%,6.6%,6.1%
+        Living in 12 selected states,0.0%,0.0%,0.0%,1.8%,1.8%,1.8%
+            Worked in minor civil division of residence,0.0%,0.0%,0.0%,0.6%,0.5%,0.7%
+            Worked outside minor civil division of residence,0.0%,0.0%,0.0%,1.2%,1.3%,1.2%
+        Not living in 12 selected states,100.0%,100.0%,100.0%,98.2%,98.2%,98.2%
+Workers 16 years and over who did not work from home,"5,686,627","2,990,003","2,696,624","4,290,444","2,268,858","2,021,586"
+        12:00 a.m. to 4:59 a.m.,5.1%,6.7%,3.3%,5.2%,6.8%,3.3%
+        5:00 a.m. to 5:29 a.m.,4.3%,5.7%,2.7%,4.4%,6.0%,2.7%
+        5:30 a.m. to 5:59 a.m.,5.0%,6.2%,3.7%,4.8%,5.9%,3.4%
+        6:00 a.m. to 6:29 a.m.,9.5%,11.2%,7.6%,9.7%,11.2%,8.0%
+        6:30 a.m. to 6:59 a.m.,9.7%,9.9%,9.6%,9.3%,9.1%,9.4%
+        7:00 a.m. to 7:29 a.m.,14.5%,13.6%,15.5%,14.6%,13.8%,15.4%
+        7:30 a.m. to 7:59 a.m.,11.7%,9.6%,13.9%,10.6%,8.9%,12.5%
+        8:00 a.m. to 8:29 a.m.,11.0%,9.7%,12.5%,11.5%,10.1%,13.2%
+        8:30 a.m. to 8:59 a.m.,5.1%,4.2%,6.0%,5.5%,4.7%,6.5%
+        9:00 a.m. to 11:59 p.m.,24.1%,23.2%,25.1%,24.4%,23.4%,25.4%
+        Less than 10 minutes,11.8%,10.7%,13.1%,8.3%,7.4%,9.4%
+        10 to 14 minutes,11.9%,11.0%,12.9%,9.9%,8.9%,11.1%
+        15 to 19 minutes,13.0%,12.4%,13.7%,11.7%,11.0%,12.5%
+        20 to 24 minutes,12.5%,12.0%,13.0%,12.3%,11.8%,12.9%
+        25 to 29 minutes,6.3%,6.2%,6.4%,6.4%,6.2%,6.5%
+        30 to 34 minutes,14.0%,14.5%,13.5%,15.5%,15.9%,15.1%
+        35 to 44 minutes,8.5%,8.9%,8.1%,9.7%,10.2%,9.2%
+        45 to 59 minutes,10.6%,11.4%,9.6%,12.4%,13.3%,11.4%
+        60 or more minutes,11.5%,13.0%,9.8%,13.8%,15.4%,12.1%
+        Mean travel time to work (minutes),29.0,30.5,27.3,31.8,33.3,30.1
+    Workers 16 years and over in households,"6,083,961","3,187,726","2,896,235","4,625,308","2,436,414","2,188,894"
+        No vehicle available,5.2%,5.0%,5.5%,6.0%,5.6%,6.5%
+        1 vehicle available,22.7%,20.6%,25.1%,23.7%,21.7%,26.0%
+        2 vehicles available,40.7%,42.0%,39.3%,40.1%,41.4%,38.7%
+        3 or more vehicles available,31.3%,32.4%,30.1%,30.2%,31.4%,28.8%
+    Means of transportation to work,11.4%,(X),(X),11.9%,(X),(X)
+    Private vehicle occupancy,13.2%,(X),(X),13.9%,(X),(X)
+    Place of work,15.9%,(X),(X),16.8%,(X),(X)
+    Time of departure to go to work,24.0%,(X),(X),25.2%,(X),(X)
+    Travel time to work,16.9%,(X),(X),18.0%,(X),(X)
+    Vehicles available,1.4%,(X),(X),1.4%,(X),(X)
