@@ -1,0 +1,58 @@
+Label/Group,California Estimate,California Male Estimate,California Female Estimate,Los Angeles City Estimate,Los Angeles City Male Estimate,Los Angeles City Female Estimate
+Workers 16 years and over,"18,239,892","9,925,774","8,314,118","1,956,957","1,058,847","898,110"
+"        Car, truck, or van",82.0%,82.7%,81.2%,76.6%,77.8%,75.2%
+            Drove alone,72.1%,73.1%,70.9%,67.7%,69.2%,65.9%
+            Carpooled,10.0%,9.6%,10.3%,8.9%,8.5%,9.4%
+                In 2-person carpool,7.3%,7.0%,7.6%,6.8%,6.4%,7.3%
+                In 3-person carpool,1.6%,1.5%,1.6%,1.3%,1.2%,1.3%
+                In 4-or-more person carpool,1.1%,1.1%,1.1%,0.8%,0.9%,0.8%
+"            Workers per car, truck, or van",1.07,1.07,1.08,1.07,1.06,1.07
+        Public transportation (excluding taxicab),4.6%,4.4%,4.9%,8.2%,7.6%,9.0%
+        Walked,2.5%,2.5%,2.6%,3.3%,3.0%,3.7%
+        Bicycle,0.8%,1.1%,0.5%,0.8%,1.2%,0.4%
+"        Taxicab, motorcycle, or other means",1.6%,1.7%,1.4%,1.9%,2.0%,1.8%
+        Worked from home,8.4%,7.6%,9.3%,9.2%,8.5%,10.0%
+        Worked in state of residence,99.5%,99.4%,99.7%,99.6%,99.5%,99.7%
+            Worked in county of residence,82.9%,80.7%,85.5%,96.6%,95.9%,97.4%
+            Worked outside county of residence,16.7%,18.7%,14.2%,3.0%,3.6%,2.3%
+        Worked outside state of residence,0.5%,0.6%,0.3%,0.4%,0.5%,0.3%
+        Living in a place,95.9%,95.7%,96.1%,100.0%,100.0%,100.0%
+            Worked in place of residence,36.3%,34.1%,39.0%,65.8%,64.6%,67.1%
+            Worked outside place of residence,59.5%,61.5%,57.1%,34.2%,35.4%,32.9%
+        Not living in a place,4.1%,4.3%,3.9%,0.0%,0.0%,0.0%
+        Living in 12 selected states,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+            Worked in minor civil division of residence,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+            Worked outside minor civil division of residence,0.0%,0.0%,0.0%,0.0%,0.0%,0.0%
+        Not living in 12 selected states,100.0%,100.0%,100.0%,100.0%,100.0%,100.0%
+Workers 16 years and over who did not work from home,"16,710,195","9,170,125","7,540,070","1,777,460","969,347","808,113"
+        12:00 a.m. to 4:59 a.m.,6.3%,8.3%,3.9%,4.7%,5.8%,3.3%
+        5:00 a.m. to 5:29 a.m.,4.6%,6.1%,2.7%,3.9%,4.9%,2.6%
+        5:30 a.m. to 5:59 a.m.,4.7%,5.7%,3.5%,3.8%,4.5%,2.8%
+        6:00 a.m. to 6:29 a.m.,8.6%,10.2%,6.8%,8.3%,9.9%,6.5%
+        6:30 a.m. to 6:59 a.m.,8.1%,8.1%,8.1%,6.9%,6.7%,7.1%
+        7:00 a.m. to 7:29 a.m.,13.4%,12.6%,14.4%,14.0%,13.5%,14.6%
+        7:30 a.m. to 7:59 a.m.,10.5%,8.7%,12.7%,8.7%,7.5%,10.3%
+        8:00 a.m. to 8:29 a.m.,11.9%,10.8%,13.3%,13.2%,12.4%,14.2%
+        8:30 a.m. to 8:59 a.m.,5.9%,5.1%,7.0%,7.1%,6.1%,8.2%
+        9:00 a.m. to 11:59 p.m.,25.9%,24.5%,27.7%,29.4%,28.6%,30.3%
+        Less than 10 minutes,9.2%,8.3%,10.2%,5.8%,5.4%,6.3%
+        10 to 14 minutes,12.1%,11.2%,13.3%,9.2%,8.7%,9.8%
+        15 to 19 minutes,14.7%,13.9%,15.6%,12.6%,12.4%,12.8%
+        20 to 24 minutes,14.0%,13.8%,14.4%,13.6%,13.2%,14.0%
+        25 to 29 minutes,6.1%,6.0%,6.2%,5.6%,5.5%,5.7%
+        30 to 34 minutes,15.0%,15.5%,14.5%,19.6%,20.6%,18.4%
+        35 to 44 minutes,7.2%,7.3%,7.0%,8.7%,8.6%,8.8%
+        45 to 59 minutes,9.0%,9.5%,8.4%,10.8%,10.9%,10.6%
+        60 or more minutes,12.7%,14.4%,10.6%,14.0%,14.5%,13.4%
+        Mean travel time to work (minutes),29.8,31.5,27.8,31.9,32.5,31.2
+    Workers 16 years and over in households,"18,082,556","9,828,873","8,253,683","1,941,461","1,052,333","889,128"
+        No vehicle available,3.2%,3.1%,3.2%,5.8%,5.8%,5.7%
+        1 vehicle available,18.0%,16.5%,19.7%,26.7%,25.6%,27.9%
+        2 vehicles available,37.7%,38.2%,37.1%,37.4%,37.5%,37.2%
+        3 or more vehicles available,41.2%,42.1%,40.0%,30.1%,31.0%,29.1%
+    Means of transportation to work,13.5%,(X),(X),13.9%,(X),(X)
+    Private vehicle occupancy,15.3%,(X),(X),16.0%,(X),(X)
+    Place of work,17.8%,(X),(X),18.1%,(X),(X)
+    Time of departure to go to work,25.0%,(X),(X),25.8%,(X),(X)
+    Travel time to work,19.1%,(X),(X),21.8%,(X),(X)
+    Vehicles available,1.4%,(X),(X),1.5%,(X),(X)
