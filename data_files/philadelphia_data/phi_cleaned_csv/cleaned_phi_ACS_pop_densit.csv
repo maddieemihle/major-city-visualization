@@ -1,0 +1,95 @@
+Label (Grouping),Pennsylvania Estimate,Pennsylvania Percent,Philadelphia Total Population,Philadelphia Percent
+SEX AND AGE,,,,
+    Total population,"12,794,885","12,794,885","1,581,531","1,581,531"
+        Male,"6,269,142",49.0%,"748,846",47.3%
+        Female,"6,525,743",51.0%,"832,685",52.7%
+        Sex ratio (males per 100 females),96.1,(X),89.9,(X)
+        Under 5 years,"702,231",5.5%,"104,423",6.6%
+        5 to 9 years,"717,096",5.6%,"93,417",5.9%
+        10 to 14 years,"763,272",6.0%,"93,949",5.9%
+        15 to 19 years,"810,436",6.3%,"95,858",6.1%
+        20 to 24 years,"811,852",6.3%,"111,601",7.1%
+        25 to 34 years,"1,693,816",13.2%,"302,302",19.1%
+        35 to 44 years,"1,502,764",11.7%,"198,540",12.6%
+        45 to 54 years,"1,651,599",12.9%,"180,573",11.4%
+        55 to 59 years,"920,735",7.2%,"92,065",5.8%
+        60 to 64 years,"885,980",6.9%,"91,400",5.8%
+        65 to 74 years,"1,317,854",10.3%,"124,965",7.9%
+        75 to 84 years,"679,481",5.3%,"62,944",4.0%
+        85 years and over,"337,769",2.6%,"29,494",1.9%
+        Median age (years),40.9,(X),34.6,(X)
+        Under 18 years,"2,649,582",20.7%,"343,874",21.7%
+        16 years and over,"10,456,049",81.7%,"1,272,154",80.4%
+        18 years and over,"10,145,303",79.3%,"1,237,657",78.3%
+        21 years and over,"9,634,772",75.3%,"1,172,204",74.1%
+        62 years and over,"2,854,120",22.3%,"269,840",17.1%
+        65 years and over,"2,335,104",18.3%,"217,403",13.7%
+        18 years and over,"10,145,303","10,145,303","1,237,657","1,237,657"
+            Male,"4,912,920",48.4%,"573,807",46.4%
+            Female,"5,232,383",51.6%,"663,850",53.6%
+            Sex ratio (males per 100 females),93.9,(X),86.4,(X)
+        65 years and over,"2,335,104","2,335,104","217,403","217,403"
+            Male,"1,021,605",43.7%,"87,206",40.1%
+            Female,"1,313,499",56.3%,"130,197",59.9%
+            Sex ratio (males per 100 females),77.8,(X),67.0,(X)
+RACE,,,,
+    Total population,"12,794,885","12,794,885","1,581,531","1,581,531"
+        One race,"12,361,860",96.6%,"1,514,224",95.7%
+        Two or more races,"433,025",3.4%,"67,307",4.3%
+        One race,"12,361,860",96.6%,"1,514,224",95.7%
+            White,"10,155,004",79.4%,"622,027",39.3%
+            Black or African American,"1,419,582",11.1%,"654,092",41.4%
+            American Indian and Alaska Native,"20,798",0.2%,"5,255",0.3%
+                Cherokee tribal grouping,"2,329",0.0%,681,0.0%
+                Chippewa tribal grouping,316,0.0%,57,0.0%
+                Navajo tribal grouping,173,0.0%,0,0.0%
+                Sioux tribal grouping,377,0.0%,43,0.0%
+            Asian,"449,320",3.5%,"117,274",7.4%
+                Asian Indian,"141,878",1.1%,"21,749",1.4%
+                Chinese,"114,195",0.9%,"40,295",2.5%
+                Filipino,"28,200",0.2%,"6,404",0.4%
+                Japanese,"5,683",0.0%,628,0.0%
+                Korean,"37,548",0.3%,"6,011",0.4%
+                Vietnamese,"41,731",0.3%,"14,236",0.9%
+                Other Asian,"80,085",0.6%,"27,951",1.8%
+            Native Hawaiian and Other Pacific Islander,"4,268",0.0%,588,0.0%
+                Native Hawaiian,"1,488",0.0%,255,0.0%
+                Chamorro,623,0.0%,17,0.0%
+                Samoan,408,0.0%,135,0.0%
+                Other Pacific Islander,"1,749",0.0%,181,0.0%
+            Some other race,"312,888",2.4%,"114,988",7.3%
+        Two or more races,"433,025",3.4%,"67,307",4.3%
+            White and Black or African American,"150,007",1.2%,"20,254",1.3%
+            White and American Indian and Alaska Native,"37,091",0.3%,"2,696",0.2%
+            White and Asian,"58,392",0.5%,"7,955",0.5%
+            Black or African American and American Indian and Alaska Native,"11,081",0.1%,"3,369",0.2%
+Race alone or in combination with one or more other races,,,,
+    Total population,"12,794,885","12,794,885","1,581,531","1,581,531"
+        White,"10,537,652",82.4%,"673,969",42.6%
+        Black or African American,"1,634,203",12.8%,"693,395",43.8%
+        American Indian and Alaska Native,"92,952",0.7%,"17,215",1.1%
+        Asian,"532,335",4.2%,"131,393",8.3%
+        Native Hawaiian and Other Pacific Islander,"14,432",0.1%,"2,695",0.2%
+        Some other race,"454,265",3.6%,"139,016",8.8%
+HISPANIC OR LATINO AND RACE,,,,
+    Total population,"12,794,885","12,794,885","1,581,531","1,581,531"
+        Hispanic or Latino (of any race),"971,813",7.6%,"238,112",15.1%
+            Mexican,"158,266",1.2%,"19,084",1.2%
+            Puerto Rican,"468,114",3.7%,"138,962",8.8%
+            Cuban,"23,256",0.2%,"4,602",0.3%
+            Other Hispanic or Latino,"322,177",2.5%,"75,464",4.8%
+        Not Hispanic or Latino,"11,823,072",92.4%,"1,343,419",84.9%
+            White alone,"9,685,118",75.7%,"539,826",34.1%
+            Black or African American alone,"1,352,329",10.6%,"634,204",40.1%
+            American Indian and Alaska Native alone,"12,224",0.1%,"3,206",0.2%
+            Asian alone,"445,725",3.5%,"116,441",7.4%
+            Native Hawaiian and Other Pacific Islander alone,"2,968",0.0%,380,0.0%
+            Some other race alone,"38,765",0.3%,"6,482",0.4%
+            Two or more races,"285,943",2.2%,"42,880",2.7%
+                Two races including Some other race,"31,223",0.2%,"4,633",0.3%
+"                Two races excluding Some other race, and Three or more races","254,720",2.0%,"38,247",2.4%
+Total housing units,"5,713,345",(X),"689,121",(X)
+"CITIZEN, VOTING AGE POPULATION",,,,
+"    Citizen, 18 and over population","9,778,957","9,778,957","1,140,501","1,140,501"
+        Male,"4,723,921",48.3%,"522,833",45.8%
+        Female,"5,055,036",51.7%,"617,668",54.2%

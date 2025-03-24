@@ -1,0 +1,36 @@
+Age,Pennsylvania Total,Pennsylvania Labor Force Participation,Pennsylvania Employment/Population Ratio,Pennsylvania Unemployment Rate,Philadelphia Total Population,Philadelphia Labor Force Participation Rate,Philadelphia Employment/Population Ratio,Philadelphia Unemployment rate
+Population 16 years and over,"10,456,049",62.8%,59.4%,5.4%,"1,272,154",61.6%,56.1%,8.8%
+        16 to 19 years,"654,199",41.2%,34.5%,16.3%,"78,270",30.4%,21.3%,29.7%
+        20 to 24 years,"811,852",73.7%,66.3%,9.9%,"111,601",66.0%,56.3%,14.7%
+        25 to 29 years,"861,467",84.7%,79.5%,6.0%,"159,858",83.4%,76.6%,8.1%
+        30 to 34 years,"832,349",84.4%,79.8%,5.3%,"142,444",84.9%,78.1%,7.9%
+        35 to 44 years,"1,502,764",84.0%,80.2%,4.3%,"198,540",80.8%,74.8%,7.4%
+        45 to 54 years,"1,651,599",82.0%,78.8%,3.8%,"180,573",72.9%,67.3%,7.6%
+        55 to 59 years,"920,735",75.1%,72.2%,3.7%,"92,065",64.3%,60.3%,6.3%
+        60 to 64 years,"885,980",59.4%,57.3%,3.5%,"91,400",49.2%,46.7%,5.1%
+        65 to 74 years,"1,317,854",27.3%,26.3%,3.8%,"124,965",23.0%,21.2%,7.7%
+        75 years and over,"1,017,250",7.1%,6.8%,4.3%,"92,438",6.9%,6.4%,7.7%
+        White alone,"8,484,016",62.9%,60.0%,4.5%,"533,754",64.9%,61.0%,6.0%
+        Black or African American alone,"1,101,155",60.7%,54.0%,10.9%,"510,166",59.0%,51.6%,12.5%
+        American Indian and Alaska Native alone,"16,392",56.7%,50.6%,10.7%,"4,052",51.8%,42.8%,17.3%
+        Asian alone,"363,085",64.8%,61.9%,4.5%,"97,221",60.9%,57.7%,5.3%
+        Native Hawaiian and Other Pacific Islander alone,"3,590",59.5%,57.0%,4.3%,530,57.4%,57.4%,0.0%
+        Some other race alone,"232,039",59.7%,54.7%,8.3%,"83,516",54.3%,48.9%,9.9%
+        Two or more races,"255,772",68.0%,61.9%,8.8%,"42,915",66.9%,60.9%,8.9%
+        Hispanic or Latino origin (of any race),"672,893",65.4%,59.7%,8.5%,"166,621",60.6%,54.3%,10.3%
+"        White alone, not Hispanic or Latino","8,155,966",62.8%,60.0%,4.4%,"475,618",65.2%,61.6%,5.5%
+Population 20 to 64 years,"7,466,746",78.5%,74.5%,5.0%,"976,481",74.2%,68.1%,8.2%
+        Male,"3,717,803",82.1%,77.6%,5.2%,"465,055",76.0%,68.8%,9.4%
+        Female,"3,748,943",75.1%,71.5%,4.7%,"511,426",72.5%,67.4%,6.9%
+            With own children under 18 years,"1,252,997",77.2%,73.5%,4.7%,"147,699",76.7%,70.7%,7.8%
+                With own children under 6 years only,"287,708",75.2%,71.0%,5.5%,"37,751",76.2%,70.6%,7.4%
+                With own children under 6 years and 6 to 17  years,"239,802",70.6%,66.3%,6.0%,"31,367",78.0%,70.4%,9.7%
+                With own children 6 to 17 years only,"725,487",80.2%,76.9%,4.1%,"78,581",76.3%,70.8%,7.1%
+        Below poverty level,"818,860",46.2%,35.7%,22.6%,"198,507",42.2%,30.6%,27.6%
+        At or above the poverty level,"6,473,068",84.2%,81.0%,3.7%,"763,241",83.3%,78.6%,5.6%
+        With any disability,"834,477",43.7%,38.1%,12.6%,"144,881",37.8%,30.7%,18.6%
+    Population 25 to 64 years,"6,654,894",79.1%,75.6%,4.4%,"864,880",75.2%,69.6%,7.4%
+        Less than high school graduate,"505,693",55.6%,50.7%,8.9%,"103,116",50.8%,44.5%,12.5%
+        High school graduate (includes equivalency),"2,088,636",73.1%,68.8%,5.8%,"264,307",67.7%,60.1%,11.3%
+        Some college or associate's degree,"1,729,747",80.8%,77.0%,4.6%,"205,620",77.6%,71.8%,7.4%
+        Bachelor's degree or higher,"2,330,818",88.4%,86.0%,2.6%,"291,837",88.9%,85.5%,3.7%
