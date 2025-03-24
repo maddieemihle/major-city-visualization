@@ -1,0 +1,95 @@
+Label (Grouping),Philadelphia Total Population,Philadelphia %
+SEX AND AGE,,
+    Total population,"1,581,531","1,581,531"
+        Male,"748,846",47.3%
+        Female,"832,685",52.7%
+        Sex ratio (males per 100 females),89.9,(X)
+        Under 5 years,"104,423",6.6%
+        5 to 9 years,"93,417",5.9%
+        10 to 14 years,"93,949",5.9%
+        15 to 19 years,"95,858",6.1%
+        20 to 24 years,"111,601",7.1%
+        25 to 34 years,"302,302",19.1%
+        35 to 44 years,"198,540",12.6%
+        45 to 54 years,"180,573",11.4%
+        55 to 59 years,"92,065",5.8%
+        60 to 64 years,"91,400",5.8%
+        65 to 74 years,"124,965",7.9%
+        75 to 84 years,"62,944",4.0%
+        85 years and over,"29,494",1.9%
+        Median age (years),34.6,(X)
+        Under 18 years,"343,874",21.7%
+        16 years and over,"1,272,154",80.4%
+        18 years and over,"1,237,657",78.3%
+        21 years and over,"1,172,204",74.1%
+        62 years and over,"269,840",17.1%
+        65 years and over,"217,403",13.7%
+        18 years and over,"1,237,657","1,237,657"
+            Male,"573,807",46.4%
+            Female,"663,850",53.6%
+            Sex ratio (males per 100 females),86.4,(X)
+        65 years and over,"217,403","217,403"
+            Male,"87,206",40.1%
+            Female,"130,197",59.9%
+            Sex ratio (males per 100 females),67.0,(X)
+RACE,,
+    Total population,"1,581,531","1,581,531"
+        One race,"1,514,224",95.7%
+        Two or more races,"67,307",4.3%
+        One race,"1,514,224",95.7%
+            White,"622,027",39.3%
+            Black or African American,"654,092",41.4%
+            American Indian and Alaska Native,"5,255",0.3%
+                Cherokee tribal grouping,681,0.0%
+                Chippewa tribal grouping,57,0.0%
+                Navajo tribal grouping,0,0.0%
+                Sioux tribal grouping,43,0.0%
+            Asian,"117,274",7.4%
+                Asian Indian,"21,749",1.4%
+                Chinese,"40,295",2.5%
+                Filipino,"6,404",0.4%
+                Japanese,628,0.0%
+                Korean,"6,011",0.4%
+                Vietnamese,"14,236",0.9%
+                Other Asian,"27,951",1.8%
+            Native Hawaiian and Other Pacific Islander,588,0.0%
+                Native Hawaiian,255,0.0%
+                Chamorro,17,0.0%
+                Samoan,135,0.0%
+                Other Pacific Islander,181,0.0%
+            Some other race,"114,988",7.3%
+        Two or more races,"67,307",4.3%
+            White and Black or African American,"20,254",1.3%
+            White and American Indian and Alaska Native,"2,696",0.2%
+            White and Asian,"7,955",0.5%
+            Black or African American and American Indian and Alaska Native,"3,369",0.2%
+Race alone or in combination with one or more other races,,
+    Total population,"1,581,531","1,581,531"
+        White,"673,969",42.6%
+        Black or African American,"693,395",43.8%
+        American Indian and Alaska Native,"17,215",1.1%
+        Asian,"131,393",8.3%
+        Native Hawaiian and Other Pacific Islander,"2,695",0.2%
+        Some other race,"139,016",8.8%
+HISPANIC OR LATINO AND RACE,,
+    Total population,"1,581,531","1,581,531"
+        Hispanic or Latino (of any race),"238,112",15.1%
+            Mexican,"19,084",1.2%
+            Puerto Rican,"138,962",8.8%
+            Cuban,"4,602",0.3%
+            Other Hispanic or Latino,"75,464",4.8%
+        Not Hispanic or Latino,"1,343,419",84.9%
+            White alone,"539,826",34.1%
+            Black or African American alone,"634,204",40.1%
+            American Indian and Alaska Native alone,"3,206",0.2%
+            Asian alone,"116,441",7.4%
+            Native Hawaiian and Other Pacific Islander alone,380,0.0%
+            Some other race alone,"6,482",0.4%
+            Two or more races,"42,880",2.7%
+                Two races including Some other race,"4,633",0.3%
+"                Two races excluding Some other race, and Three or more races","38,247",2.4%
+Total housing units,"689,121",(X)
+"CITIZEN, VOTING AGE POPULATION",,
+"    Citizen, 18 and over population","1,140,501","1,140,501"
+        Male,"522,833",45.8%
+        Female,"617,668",54.2%

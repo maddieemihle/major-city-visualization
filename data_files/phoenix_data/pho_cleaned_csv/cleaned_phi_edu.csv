@@ -1,0 +1,65 @@
+Age by Educational Attainment,Phoenix Total Population,Phoenix Pop %,Phoenix Male Population,Phoenix Male %,Phoenix Female Population,Phoenix Female %
+    Population 18 to 24 years,"162,489",(X),"83,118",(X),"79,371",(X)
+        Less than high school graduate,"26,665",16.4%,"15,017",18.1%,"11,648",14.7%
+        High school graduate (includes equivalency),"60,201",37.0%,"32,596",39.2%,"27,605",34.8%
+        Some college or associate's degree,"61,165",37.6%,"29,136",35.1%,"32,029",40.4%
+        Bachelor's degree or higher,"14,458",8.9%,"6,369",7.7%,"8,089",10.2%
+    Population 25 years and over,"1,070,083",(X),"527,365",(X),"542,718",(X)
+        Less than 9th grade,"91,151",8.5%,"47,671",9.0%,"43,480",8.0%
+"        9th to 12th grade, no diploma","91,576",8.6%,"45,070",8.5%,"46,506",8.6%
+        High school graduate (includes equivalency),"250,418",23.4%,"127,983",24.3%,"122,435",22.6%
+"        Some college, no degree","237,484",22.2%,"115,533",21.9%,"121,951",22.5%
+        Associate's degree,"84,661",7.9%,"39,914",7.6%,"44,747",8.2%
+        Bachelor's degree,"198,257",18.5%,"95,235",18.1%,"103,022",19.0%
+        Graduate or professional degree,"116,536",10.9%,"55,959",10.6%,"60,577",11.2%
+        High school graduate or higher,"887,356",82.9%,"434,624",82.4%,"452,732",83.4%
+        Bachelor's degree or higher,"314,793",29.4%,"151,194",28.7%,"163,599",30.1%
+    Population 25 to 34 years,"268,623",(X),"135,370",(X),"133,253",(X)
+        High school graduate or higher,"232,667",86.6%,"116,298",85.9%,"116,369",87.3%
+        Bachelor's degree or higher,"78,496",29.2%,"35,230",26.0%,"43,266",32.5%
+    Population 35 to 44 years,"229,855",(X),"116,508",(X),"113,347",(X)
+        High school graduate or higher,"185,181",80.6%,"93,023",79.8%,"92,158",81.3%
+        Bachelor's degree or higher,"71,378",31.1%,"33,367",28.6%,"38,011",33.5%
+    Population 45 to 64 years,"389,603",(X),"193,712",(X),"195,891",(X)
+        High school graduate or higher,"316,405",81.2%,"155,694",80.4%,"160,711",82.0%
+        Bachelor's degree or higher,"113,042",29.0%,"54,545",28.2%,"58,497",29.9%
+    Population 65 years and over,"182,002",(X),"81,775",(X),"100,227",(X)
+        High school graduate or higher,"153,103",84.1%,"69,609",85.1%,"83,494",83.3%
+        Bachelor's degree or higher,"51,877",28.5%,"28,052",34.3%,"23,825",23.8%
+    White alone,"763,329",(X),"376,849",(X),"386,480",(X)
+        High school graduate or higher,"656,049",85.9%,"321,653",85.4%,"334,396",86.5%
+        Bachelor's degree or higher,"243,704",31.9%,"118,413",31.4%,"125,291",32.4%
+"    White alone, not Hispanic or Latino","533,913",(X),"262,377",(X),"271,536",(X)
+        High school graduate or higher,"505,662",94.7%,"247,877",94.5%,"257,785",94.9%
+        Bachelor's degree or higher,"217,337",40.7%,"106,256",40.5%,"111,081",40.9%
+    Black alone,"71,269",(X),"35,202",(X),"36,067",(X)
+        High school graduate or higher,"63,418",89.0%,"31,540",89.6%,"31,878",88.4%
+        Bachelor's degree or higher,"17,172",24.1%,"7,843",22.3%,"9,329",25.9%
+    American Indian or Alaska Native alone,"19,613",(X),"8,787",(X),"10,826",(X)
+        High school graduate or higher,"16,295",83.1%,"7,279",82.8%,"9,016",83.3%
+        Bachelor's degree or higher,"3,316",16.9%,"1,252",14.2%,"2,064",19.1%
+    Asian alone,"45,594",(X),"21,178",(X),"24,416",(X)
+        High school graduate or higher,"39,054",85.7%,"18,922",89.3%,"20,132",82.5%
+        Bachelor's degree or higher,"26,702",58.6%,"13,026",61.5%,"13,676",56.0%
+    Native Hawaiian and Other Pacific Islander alone,"2,098",(X),"1,163",(X),935,(X)
+        High school graduate or higher,"1,783",85.0%,"1,037",89.2%,746,79.8%
+        Bachelor's degree or higher,353,16.8%,246,21.2%,107,11.4%
+    Some other race alone,"98,081",(X),"47,015",(X),"51,066",(X)
+        High school graduate or higher,"56,218",57.3%,"26,018",55.3%,"30,200",59.1%
+        Bachelor's degree or higher,"7,582",7.7%,"3,283",7.0%,"4,299",8.4%
+    Two or more races,"70,099",(X),"37,171",(X),"32,928",(X)
+        High school graduate or higher,"54,539",77.8%,"28,175",75.8%,"26,364",80.1%
+        Bachelor's degree or higher,"15,964",22.8%,"7,131",19.2%,"8,833",26.8%
+    Hispanic or Latino Origin,"380,748",(X),"191,040",(X),"189,708",(X)
+        High school graduate or higher,"244,439",64.2%,"120,488",63.1%,"123,951",65.3%
+        Bachelor's degree or higher,"42,079",11.1%,"19,125",10.0%,"22,954",12.1%
+    Less than high school graduate,(X),25.0%,(X),21.1%,(X),28.9%
+    High school graduate (includes equivalency),(X),15.4%,(X),12.9%,(X),17.8%
+    Some college or associate's degree,(X),11.4%,(X),10.3%,(X),12.5%
+    Bachelor's degree or higher,(X),4.8%,(X),4.1%,(X),5.4%
+    Population 25 years and over with earnings,"39,304",(X),"42,044",(X),"35,667",(X)
+        Less than high school graduate,"25,387",(X),"28,374",(X),"21,065",(X)
+        High school graduate (includes equivalency),"30,972",(X),"33,852",(X),"26,577",(X)
+        Some college or associate's degree,"38,053",(X),"41,905",(X),"34,179",(X)
+        Bachelor's degree,"55,343",(X),"66,729",(X),"48,798",(X)
+        Graduate or professional degree,"72,661",(X),"90,492",(X),"62,039",(X)
