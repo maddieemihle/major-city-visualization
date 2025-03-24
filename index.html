@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -17,6 +17,50 @@
             <option value="income">Income</option>
             <option value="poverty">Poverty</option>
             <option value="education">Education</option>
+        </select>
+        <button type="submit">Generate Plot</button>
+    </form>
+    <div id="plot"></div>
+    <script>
+        document.getElementById('plot-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const metric = document.getElementById('metric').value;
+            fetch('/plot', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ metric: metric }),
+            })
+            .then(response => response.json())
+            .then(data => {
+                const graphJSON = JSON.parse(data);
+                Plotly.newPlot('plot', graphJSON.data, graphJSON.layout);
+            });
+        });
+    </script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chicago Data Visualization Dashboard</title>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1>Chicago Data Visualization Dashboard</h1>
+    <form id="plot-form">
+        <label for="metric">Choose a metric:</label>
+        <select id="metric" name="metric">
+            <option value="commute">Commute</option>
+            <option value="unemployment">Unemployment</option>
+            <option value="rent">Rent</option>
+            <option value="income">Income</option>
+            <option value="education">Education</option>
+            <option value="age">Age</option>
+            <option value="race">Race</option>
         </select>
         <button type="submit">Generate Plot</button>
     </form>
