@@ -1,95 +1,95 @@
-Label (Grouping),"Phoenix city, Arizona!!Estimate",Phoenix %
-SEX AND AGE,,
-    Total population,"1,658,422","1,658,422"
-        Male,"828,085",49.9%
-        Female,"830,337",50.1%
-        Sex ratio (males per 100 females),99.7,(X)
-        Under 5 years,"116,706",7.0%
-        5 to 9 years,"116,776",7.0%
-        10 to 14 years,"121,354",7.3%
-        15 to 19 years,"115,932",7.0%
-        20 to 24 years,"117,571",7.1%
-        25 to 34 years,"268,623",16.2%
-        35 to 44 years,"229,855",13.9%
-        45 to 54 years,"209,148",12.6%
-        55 to 59 years,"96,681",5.8%
-        60 to 64 years,"83,774",5.1%
-        65 to 74 years,"112,070",6.8%
-        75 to 84 years,"48,927",3.0%
-        85 years and over,"21,005",1.3%
-        Median age (years),33.9,(X)
-        Under 18 years,"425,850",25.7%
-        16 years and over,"1,280,078",77.2%
-        18 years and over,"1,232,572",74.3%
-        21 years and over,"1,164,996",70.2%
-        62 years and over,"228,763",13.8%
-        65 years and over,"182,002",11.0%
-        18 years and over,"1,232,572","1,232,572"
-            Male,"610,483",49.5%
-            Female,"622,089",50.5%
-            Sex ratio (males per 100 females),98.1,(X)
-        65 years and over,"182,002","182,002"
-            Male,"81,775",44.9%
-            Female,"100,227",55.1%
-            Sex ratio (males per 100 females),81.6,(X)
-RACE,,
-    Total population,"1,658,422","1,658,422"
-        One race,"1,521,256",91.7%
-        Two or more races,"137,166",8.3%
-        One race,"1,521,256",91.7%
-            White,"1,131,594",68.2%
-            Black or African American,"117,807",7.1%
-            American Indian and Alaska Native,"33,719",2.0%
-                Cherokee tribal grouping,781,0.0%
-                Chippewa tribal grouping,159,0.0%
-                Navajo tribal grouping,"14,441",0.9%
-                Sioux tribal grouping,262,0.0%
-            Asian,"64,060",3.9%
-                Asian Indian,"22,904",1.4%
-                Chinese,"8,912",0.5%
-                Filipino,"11,084",0.7%
-                Japanese,"1,676",0.1%
-                Korean,"3,272",0.2%
-                Vietnamese,"6,177",0.4%
-                Other Asian,"10,035",0.6%
-            Native Hawaiian and Other Pacific Islander,"3,148",0.2%
-                Native Hawaiian,600,0.0%
-                Chamorro,623,0.0%
-                Samoan,343,0.0%
-                Other Pacific Islander,"1,582",0.1%
-            Some other race,"170,928",10.3%
-        Two or more races,"137,166",8.3%
-            White and Black or African American,"16,624",1.0%
-            White and American Indian and Alaska Native,"10,784",0.7%
-            White and Asian,"12,920",0.8%
-            Black or African American and American Indian and Alaska Native,"2,055",0.1%
-Race alone or in combination with one or more other races,,
-    Total population,"1,658,422","1,658,422"
-        White,"1,256,590",75.8%
-        Black or African American,"145,238",8.8%
-        American Indian and Alaska Native,"52,589",3.2%
-        Asian,"85,080",5.1%
-        Native Hawaiian and Other Pacific Islander,"8,018",0.5%
-        Some other race,"256,799",15.5%
-HISPANIC OR LATINO AND RACE,,
-    Total population,"1,658,422","1,658,422"
-        Hispanic or Latino (of any race),"707,268",42.6%
-            Mexican,"630,265",38.0%
-            Puerto Rican,"12,722",0.8%
-            Cuban,"5,745",0.3%
-            Other Hispanic or Latino,"58,536",3.5%
-        Not Hispanic or Latino,"951,154",57.4%
-            White alone,"699,993",42.2%
-            Black or African American alone,"111,443",6.7%
-            American Indian and Alaska Native alone,"25,889",1.6%
-            Asian alone,"62,058",3.7%
-            Native Hawaiian and Other Pacific Islander alone,"2,888",0.2%
-            Some other race alone,"4,567",0.3%
-            Two or more races,"44,316",2.7%
-                Two races including Some other race,"3,773",0.2%
-"                Two races excluding Some other race, and Three or more races","40,543",2.4%
-Total housing units,"626,977",(X)
-"CITIZEN, VOTING AGE POPULATION",,
-"    Citizen, 18 and over population","1,045,710","1,045,710"
-        Male,"514,490",49.2%
-        Female,"531,220",50.8%
+Label (Grouping),Arizona Estimate,Arizona Percent,Phoenix Total Population,Phoenix Percent
+SEX AND AGE,,,,
+    Total population,"7,174,064","7,174,064","1,658,422","1,658,422"
+        Male,"3,564,979",49.7%,"828,085",49.9%
+        Female,"3,609,085",50.3%,"830,337",50.1%
+        Sex ratio (males per 100 females),98.8,(X),99.7,(X)
+        Under 5 years,"431,224",6.0%,"116,706",7.0%
+        5 to 9 years,"444,859",6.2%,"116,776",7.0%
+        10 to 14 years,"482,609",6.7%,"121,354",7.3%
+        15 to 19 years,"478,165",6.7%,"115,932",7.0%
+        20 to 24 years,"491,151",6.8%,"117,571",7.1%
+        25 to 34 years,"986,787",13.8%,"268,623",16.2%
+        35 to 44 years,"882,115",12.3%,"229,855",13.9%
+        45 to 54 years,"850,945",11.9%,"209,148",12.6%
+        55 to 59 years,"436,015",6.1%,"96,681",5.8%
+        60 to 64 years,"427,990",6.0%,"83,774",5.1%
+        65 to 74 years,"729,598",10.2%,"112,070",6.8%
+        75 to 84 years,"392,221",5.5%,"48,927",3.0%
+        85 years and over,"140,385",2.0%,"21,005",1.3%
+        Median age (years),37.9,(X),33.9,(X)
+        Under 18 years,"1,639,645",22.9%,"425,850",25.7%
+        16 years and over,"5,720,956",79.7%,"1,280,078",77.2%
+        18 years and over,"5,534,419",77.1%,"1,232,572",74.3%
+        21 years and over,"5,234,229",73.0%,"1,164,996",70.2%
+        62 years and over,"1,514,419",21.1%,"228,763",13.8%
+        65 years and over,"1,262,204",17.6%,"182,002",11.0%
+        18 years and over,"5,534,419","5,534,419","1,232,572","1,232,572"
+            Male,"2,728,556",49.3%,"610,483",49.5%
+            Female,"2,805,863",50.7%,"622,089",50.5%
+            Sex ratio (males per 100 females),97.2,(X),98.1,(X)
+        65 years and over,"1,262,204","1,262,204","182,002","182,002"
+            Male,"581,355",46.1%,"81,775",44.9%
+            Female,"680,849",53.9%,"100,227",55.1%
+            Sex ratio (males per 100 females),85.4,(X),81.6,(X)
+RACE,,,,
+    Total population,"7,174,064","7,174,064","1,658,422","1,658,422"
+        One race,"6,674,467",93.0%,"1,521,256",91.7%
+        Two or more races,"499,597",7.0%,"137,166",8.3%
+        One race,"6,674,467",93.0%,"1,521,256",91.7%
+            White,"5,292,498",73.8%,"1,131,594",68.2%
+            Black or African American,"325,105",4.5%,"117,807",7.1%
+            American Indian and Alaska Native,"311,014",4.3%,"33,719",2.0%
+                Cherokee tribal grouping,"3,307",0.0%,781,0.0%
+                Chippewa tribal grouping,690,0.0%,159,0.0%
+                Navajo tribal grouping,"149,281",2.1%,"14,441",0.9%
+                Sioux tribal grouping,"1,511",0.0%,262,0.0%
+            Asian,"239,190",3.3%,"64,060",3.9%
+                Asian Indian,"63,701",0.9%,"22,904",1.4%
+                Chinese,"45,381",0.6%,"8,912",0.5%
+                Filipino,"44,711",0.6%,"11,084",0.7%
+                Japanese,"10,152",0.1%,"1,676",0.1%
+                Korean,"15,356",0.2%,"3,272",0.2%
+                Vietnamese,"27,422",0.4%,"6,177",0.4%
+                Other Asian,"32,467",0.5%,"10,035",0.6%
+            Native Hawaiian and Other Pacific Islander,"14,633",0.2%,"3,148",0.2%
+                Native Hawaiian,"4,651",0.1%,600,0.0%
+                Chamorro,"2,603",0.0%,623,0.0%
+                Samoan,"1,558",0.0%,343,0.0%
+                Other Pacific Islander,"5,821",0.1%,"1,582",0.1%
+            Some other race,"492,027",6.9%,"170,928",10.3%
+        Two or more races,"499,597",7.0%,"137,166",8.3%
+            White and Black or African American,"64,465",0.9%,"16,624",1.0%
+            White and American Indian and Alaska Native,"60,747",0.8%,"10,784",0.7%
+            White and Asian,"59,144",0.8%,"12,920",0.8%
+            Black or African American and American Indian and Alaska Native,"7,366",0.1%,"2,055",0.1%
+Race alone or in combination with one or more other races,,,,
+    Total population,"7,174,064","7,174,064","1,658,422","1,658,422"
+        White,"5,752,282",80.2%,"1,256,590",75.8%
+        Black or African American,"425,315",5.9%,"145,238",8.8%
+        American Indian and Alaska Native,"405,281",5.6%,"52,589",3.2%
+        Asian,"326,446",4.6%,"85,080",5.1%
+        Native Hawaiian and Other Pacific Islander,"33,447",0.5%,"8,018",0.5%
+        Some other race,"766,450",10.7%,"256,799",15.5%
+HISPANIC OR LATINO AND RACE,,,,
+    Total population,"7,174,064","7,174,064","1,658,422","1,658,422"
+        Hispanic or Latino (of any race),"2,260,690",31.5%,"707,268",42.6%
+            Mexican,"1,982,168",27.6%,"630,265",38.0%
+            Puerto Rican,"51,533",0.7%,"12,722",0.8%
+            Cuban,"17,140",0.2%,"5,745",0.3%
+            Other Hispanic or Latino,"209,849",2.9%,"58,536",3.5%
+        Not Hispanic or Latino,"4,913,374",68.5%,"951,154",57.4%
+            White alone,"3,883,722",54.1%,"699,993",42.2%
+            Black or African American alone,"305,973",4.3%,"111,443",6.7%
+            American Indian and Alaska Native alone,"272,294",3.8%,"25,889",1.6%
+            Asian alone,"233,048",3.2%,"62,058",3.7%
+            Native Hawaiian and Other Pacific Islander alone,"13,323",0.2%,"2,888",0.2%
+            Some other race alone,"17,453",0.2%,"4,567",0.3%
+            Two or more races,"187,561",2.6%,"44,316",2.7%
+                Two races including Some other race,"14,676",0.2%,"3,773",0.2%
+"                Two races excluding Some other race, and Three or more races","172,885",2.4%,"40,543",2.4%
+Total housing units,"3,040,595",(X),"626,977",(X)
+"CITIZEN, VOTING AGE POPULATION",,,,
+"    Citizen, 18 and over population","5,049,926","5,049,926","1,045,710","1,045,710"
+        Male,"2,487,408",49.3%,"514,490",49.2%
+        Female,"2,562,518",50.7%,"531,220",50.8%
