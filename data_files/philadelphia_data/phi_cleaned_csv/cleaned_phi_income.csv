@@ -1,0 +1,18 @@
+Income Grouping,Pennsylvania Households,Pennsylvania Families,Pennsylvania Married-couple Households,Pennsylvania Nonfamily Households,Philadelphia Households,Philadelphia Families,Philadelphia Married-couple families,Philadelphia Nonfamily households
+Total,"5,106,601","3,254,545","2,423,060","1,852,056","613,125","330,898","172,990","282,227"
+"    Less than $10,000",5.8%,3.2%,1.1%,11.3%,11.8%,7.3%,2.5%,18.0%
+"    $10,000 to $14,999",4.0%,2.0%,0.9%,7.9%,6.0%,4.6%,2.6%,7.9%
+"    $15,000 to $24,999",8.8%,5.1%,2.7%,16.0%,10.7%,9.4%,5.2%,12.7%
+"    $25,000 to $34,999",9.0%,6.9%,4.9%,13.3%,9.7%,9.6%,6.4%,10.5%
+"    $35,000 to $49,999",12.1%,10.9%,9.1%,14.7%,12.5%,12.9%,10.2%,12.0%
+"    $50,000 to $74,999",17.6%,18.0%,17.4%,16.6%,16.1%,16.8%,15.8%,15.2%
+"    $75,000 to $99,999",13.2%,15.3%,16.7%,8.7%,11.2%,12.5%,15.5%,9.1%
+"    $100,000 to $149,999",15.7%,19.9%,23.7%,7.1%,11.6%,13.6%,20.1%,8.2%
+"    $150,000 to $199,999",6.7%,9.0%,11.2%,2.2%,5.1%,6.2%,10.0%,3.4%
+"    $200,000 or more",7.1%,9.8%,12.4%,2.1%,5.3%,7.1%,11.9%,3.0%
+Median income (dollars),"63,627","80,996","95,778","36,247","49,127","58,090","86,667","35,827"
+Mean income (dollars),"87,262","105,058","121,189","52,451","72,419","83,963","113,790","55,901"
+PERCENT ALLOCATED,,,,,,,,
+    Household income in the past 12 months,36.1%,(X),(X),(X),43.2%,(X),(X),(X)
+    Family income in the past 12 months,(X),36.7%,(X),(X),(X),48.5%,(X),(X)
+    Nonfamily income in the past 12 months,(X),(X),(X),33.6%,(X),(X),(X),35.7%
