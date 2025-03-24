@@ -1,36 +1,36 @@
-Age,Texas Total,Texas Labor Force Participation,Texas Employment/Population Ratio,Texas Unemployment Rate,Houston Metro Total,Houston Metro Labor Force Participation,Houston Metro Employment/Population Ratio,Houston Metro Unemployment Rate
-Population 16 years and over,"22,078,090",64.8%,61.0%,5.3%,"5,328,736",66.6%,62.6%,5.9%
-        16 to 19 years,"1,627,356",34.3%,28.1%,16.9%,"382,828",31.9%,25.8%,19.0%
-        20 to 24 years,"2,000,883",73.4%,65.1%,9.5%,"454,655",73.2%,65.0%,11.1%
-        25 to 29 years,"2,130,985",81.3%,75.7%,5.8%,"522,073",81.4%,76.4%,5.9%
-        30 to 34 years,"2,079,503",81.4%,77.0%,4.7%,"526,366",81.9%,77.4%,5.3%
-        35 to 44 years,"3,888,044",81.5%,77.8%,4.1%,"996,050",82.2%,78.3%,4.6%
-        45 to 54 years,"3,542,967",80.1%,76.9%,3.9%,"890,422",80.9%,77.2%,4.4%
-        55 to 59 years,"1,702,570",72.5%,69.7%,3.9%,"416,007",73.8%,70.5%,4.4%
-        60 to 64 years,"1,512,413",58.5%,56.4%,3.6%,"363,361",60.8%,58.0%,4.6%
-        65 to 74 years,"2,166,863",28.4%,27.4%,3.7%,"489,573",29.5%,28.0%,5.2%
-        75 years and over,"1,426,506",7.8%,7.5%,3.4%,"287,401",8.7%,8.4%,3.5%
-        White alone,"15,475,150",64.1%,60.7%,4.7%,"3,238,987",65.9%,62.5%,5.0%
-        Black or African American alone,"2,674,556",66.2%,60.2%,8.1%,"922,028",67.6%,61.2%,9.3%
-        American Indian and Alaska Native alone,"109,115",65.5%,61.1%,6.0%,"23,403",69.6%,64.9%,6.6%
-        Asian alone,"1,121,803",66.7%,63.7%,4.1%,"439,962",65.5%,62.5%,4.5%
-        Native Hawaiian and Other Pacific Islander alone,"20,142",66.3%,61.0%,4.1%,"2,732",62.1%,57.7%,5.2%
-        Some other race alone,"1,341,535",67.1%,63.3%,5.5%,"387,514",68.7%,65.0%,5.5%
-        Two or more races,"1,335,789",66.7%,61.4%,7.2%,"314,110",69.2%,64.2%,7.2%
-        Hispanic or Latino origin (of any race),"8,063,662",66.5%,62.5%,5.6%,"1,849,761",68.8%,64.8%,5.8%
-"        White alone, not Hispanic or Latino","9,821,536",62.8%,59.6%,4.3%,"2,031,730",64.2%,61.1%,4.7%
-Population 20 to 64 years,"16,857,365",77.3%,73.0%,4.9%,"4,168,934",78.1%,73.7%,5.5%
-        Male,"8,438,171",83.8%,79.0%,4.8%,"2,076,077",86.4%,81.6%,5.3%
-        Female,"8,419,194",70.7%,66.9%,5.0%,"2,092,857",69.8%,65.9%,5.6%
-            With own children under 18 years,"3,273,446",69.7%,66.0%,5.1%,"833,633",68.0%,64.0%,5.8%
-                With own children under 6 years only,"708,921",66.9%,62.7%,5.9%,"183,382",65.0%,60.5%,6.7%
-                With own children under 6 years and 6 to 17  years,"711,283",61.0%,57.0%,6.3%,"175,086",58.0%,53.6%,7.5%
-                With own children 6 to 17 years only,"1,853,242",74.1%,70.8%,4.4%,"475,165",72.8%,69.1%,5.0%
-        Below poverty level,"2,005,411",50.8%,42.3%,16.7%,"467,692",51.6%,42.2%,18.3%
-        At or above the poverty level,"14,502,045",82.4%,78.8%,3.9%,"3,652,957",82.4%,78.6%,4.4%
-        With any disability,"1,586,858",46.7%,41.7%,10.3%,"324,994",47.8%,42.1%,11.8%
-    Population 25 to 64 years,"14,856,482",77.8%,74.1%,4.3%,"3,714,279",78.7%,74.8%,4.8%
-        Less than high school graduate,"2,171,844",64.9%,61.2%,5.7%,"562,702",68.5%,64.6%,5.6%
-        High school graduate (includes equivalency),"3,627,667",72.5%,68.4%,5.4%,"836,737",73.2%,68.7%,6.0%
-        Some college or associate's degree,"4,376,685",79.7%,75.5%,4.5%,"1,045,611",80.1%,75.7%,5.4%
-        Bachelor's degree or higher,"4,680,286",86.0%,83.0%,2.9%,"1,269,229",85.7%,82.5%,3.5%
+Age Group,Total,Labor Force Participation,Employment Population Ratio,Unemployment Rate
+Population 16 years and over,"3,565,983",67.4%,63.2%,6.2%
+        16 to 19 years,"253,685",31.8%,25.2%,20.6%
+        20 to 24 years,"316,390",73.3%,65.1%,10.9%
+        25 to 29 years,"380,200",81.6%,76.4%,6.2%
+        30 to 34 years,"373,426",82.3%,77.5%,5.6%
+        35 to 44 years,"669,099",82.2%,78.0%,5.0%
+        45 to 54 years,"581,186",80.9%,77.1%,4.6%
+        55 to 59 years,"267,578",73.4%,70.2%,4.4%
+        60 to 64 years,"233,029",62.3%,59.4%,4.6%
+        65 to 74 years,"308,134",30.9%,29.4%,5.0%
+        75 years and over,"183,256",9.3%,9.0%,3.8%
+        White alone,"2,050,513",67.2%,63.5%,5.3%
+        Black or African American alone,"679,737",67.7%,61.0%,9.6%
+        American Indian and Alaska Native alone,"15,406",66.7%,61.5%,7.6%
+        Asian alone,"270,555",65.0%,62.2%,4.3%
+        Native Hawaiian and Other Pacific Islander alone,"2,304",64.5%,60.6%,5.5%
+        Some other race alone,"315,903",68.9%,65.1%,5.5%
+        Two or more races,"231,565",69.8%,64.9%,7.0%
+        Hispanic or Latino origin (of any race),"1,430,711",69.1%,64.9%,5.9%
+"        White alone, not Hispanic or Latino","1,128,825",65.7%,62.4%,4.8%
+Population 20 to 64 years,"2,820,908",78.4%,73.8%,5.7%
+        Male,"1,409,352",86.8%,81.8%,5.5%
+        Female,"1,411,556",70.0%,65.8%,6.0%
+            With own children under 18 years,"547,996",66.8%,62.4%,6.6%
+                With own children under 6 years only,"123,410",64.2%,59.2%,7.8%
+                With own children under 6 years and 6 to 17  years,"116,727",56.0%,51.3%,8.4%
+                With own children 6 to 17 years only,"307,859",72.0%,67.9%,5.6%
+        Below poverty level,"361,464",52.1%,42.3%,18.8%
+        At or above the poverty level,"2,438,366",82.8%,79.0%,4.5%
+        With any disability,"223,309",48.4%,42.9%,11.3%
+    Population 25 to 64 years,"2,504,518",79.0%,74.9%,5.1%
+        Less than high school graduate,"441,459",69.8%,65.9%,5.6%
+        High school graduate (includes equivalency),"569,757",74.2%,69.7%,6.1%
+        Some college or associate's degree,"679,323",80.7%,75.8%,6.0%
+        Bachelor's degree or higher,"813,979",86.0%,82.8%,3.6%
