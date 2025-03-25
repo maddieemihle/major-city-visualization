@@ -21,7 +21,10 @@ By integrating these metrics, the project helps show the interconnectedness of e
 
 ### Methods Used
 * Descriptive Statistics 
-* Data Visualization
+* Data Collection & Cleaning
+* Data Visualization 
+* Dashboard Development
+* Comparative Analysis 
 
 ### Tools and Technologies Used
 * Python: For data cleaning, analysis, and static visualizations.
