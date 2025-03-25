@@ -39,6 +39,36 @@
       {"Category": "High school graduate or higher", "Total": "3,757,688", "Male": "1,719,997", "Female": "2,037,691"},
       {"Category": "Bachelor's degree or higher", "Total": "2,620,196", "Male": "1,262,145", "Female": "1,358,051"}
     ],
+    "rent": [
+        {
+          "Category": "Estimate",
+          "Total Housing Units": "1,795,219",
+          "Occupied Housing Units Paying Rent": "716,666",
+          "Less than $500": "25,671",
+          "$500 to $999": "256,351",
+          "$1,000 to $1,499": "274,196",
+          "$1,500 to $1,999": "115,480",
+          "$2,000 to $2,499": "27,320",
+          "$2,500 to $2,999": "8,892",
+          "$3,000 or more": "8,756",
+          "Median Rent Price": "1,115",
+          "No rent paid": "21,170"
+        },
+        {
+          "Category": "Percent",
+          "Total Housing Units": "1,795,219",
+          "Occupied Housing Units Paying Rent": "716,666",
+          "Less than $500": "3.6%",
+          "$500 to $999": "35.8%",
+          "$1,000 to $1,499": "38.3%",
+          "$1,500 to $1,999": "16.1%",
+          "$2,000 to $2,499": "3.8%",
+          "$2,500 to $2,999": "1.2%",
+          "$3,000 or more": "1.2%",
+          "Median Rent Price": "(X)",
+          "No rent paid": "(X)"
+        }
+    ],
     "age": [
       {"Category": "Estimate", "Total Population": "5,169,517", "Under 5": "315,368", "5 to 9": "302,232", "10 to 14": "322,415", "15 to 19": "310,116", "20 to 24": "334,453", "25 to 34": "844,827", "35 to 44": "699,725", "45 to 54": "647,738", "55 to 59": "330,348", "60 to 64": "304,607", "65 to 74": "433,863", "75 to 84": "219,634", "85 and Over": "104,191", "Median Age": "37.0"},
       {"Category": "Percent", "Total Population": "5,169,517", "Under 5": "6.1%", "5 to 9": "5.8%", "10 to 14": "6.2%", "15 to 19": "6.0%", "20 to 24": "6.5%", "25 to 34": "16.3%", "35 to 44": "13.5%", "45 to 54": "12.5%", "55 to 59": "6.4%", "60 to 64": "5.9%", "65 to 74": "8.4%", "75 to 84": "4.2%", "85 and Over": "2.0%", "Median Age": "(X)"}
