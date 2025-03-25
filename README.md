@@ -124,7 +124,7 @@ When looking at Population growth, it was found that:
 
 Conclusion: Higher population density correlates with higher education levels and slightly older populations. This highlights the role of urbanization in shaping demographic and educational patterns, with denser cities serving as hubs for education and career-driven individuals.
 
-![Population Density](?raw=true)
+![Population Density](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/median_age_and_education_level.png?raw=true)
 
 
 #### Economic Metrics 
@@ -140,7 +140,7 @@ When looking at the visualization, it can be inferred that cities with a higher 
 
 This shows that high-density cities (e.g., New York) face challenges such as higher unemployment rates, possibly due to competition, the cost of living, or economic disparities.
 
-![Median Household Income vs Unemployment](?raw=true)
+![Median Household Income vs Unemployment](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/median_income_vs_unemployment_rate.png?raw=true)
 
 Conclusion: while higher-income cities may have lower unemployment rates, other factors like population density, cost of living, and economic structure also play significant roles. Policymakers should consider these dynamics when addressing unemployment and income disparities in urban areas.
 
@@ -150,7 +150,7 @@ The visualization of poverty rate and median rent by population density rank pro
 **Median Age and Education Level by Population Density**
 When looking at the visualization, it can be inferred that cities with lower population density (e.g., Houston and Phoenix) tend to have slightly higher poverty rates compared to denser cities like New York and Chicago. However, median rent increases with population density. For example, New York, the most densely populated city, has the highest median rent, while Houston, the least dense, has the lowest. High-density cities like New York and Los Angeles face a dual challenge of high rents and significant poverty rates, highlighting affordability issues for low-income residents.
 
-![Median Rent](?raw=true)
+![Median Rent](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/poverty_rate_and_median_rent.png?raw=true)
 
 Conclusion: the visualization shows the complex interplay between population density, poverty, and housing costs, emphasizing the need for tailored strategies to address economic and housing challenges in different urban contexts.
 
@@ -160,7 +160,7 @@ Quality of life is a multifaceted concept encompassing various factors influenci
 **Commute Time**
 Cities like New York use public transportation significantly more, while cities like Houston and Phoenix depend more on personal vehicles. This could also suggest that more "urbanized" cities are more walking-friendly based on well-thought-out city planning. 
 
-![Commute Time](?raw=true)
+![Commute Time](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/commute_modes_by_city.png?raw=true)
 
 **Health Behaviors**
 Health behaviors provide critical insights into the well-being and lifestyle choices of populations within urban areas. The data highlights key metrics such as obesity rates, smoking prevalence, physical activity levels, and sleep patterns. These behaviors are directly linked to chronic diseases, mental health, and overall quality of life. The results are as follows: 
@@ -169,7 +169,7 @@ Health behaviors provide critical insights into the well-being and lifestyle cho
 2. **Smoking and Binge Drinking**: Chicago has notable rates of smoking and binge drinking, indicating areas for public health intervention.
 3. **Sleep Patterns**:** New York City, known as "the city that never sleeps," has a higher percentage of adults reporting insufficient sleep.
 
-![Health Behaviors](?raw=true)
+![Health Behaviors](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/health_behaviors.png?raw=true)
 
 **Air Quality Index** 
 The data on the number of good air quality days versus bad air quality days provides insights into the environmental conditions of the analyzed counties. Here are some insights: 
@@ -186,8 +186,9 @@ The data on the number of good air quality days versus bad air quality days prov
 4. **Geographic and Climatic Factors**:
     - Geographic features like valleys (e.g., Los Angeles) can trap pollutants, leading to worse air quality days. Conversely, areas with favorable wind patterns or less industrial activity may experience better air quality.
 
-![AQI Good](?raw=true)
-![AQI Bad](?raw=true)
+![AQI Good](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/good_air_quality_days_by_county.png?raw=true)
+
+![AQI Bad](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/bad_air_quality_days_by_county.png?raw=true)
 
 ## Conclusion
 Each city has its own strengths and weaknesses. New York has high economic opportunities but significant income inequality and housing challenges. Los Angeles, with its diverse and economically proven city, faces high unemployment and health behavior concerns. Houston, with its rapid growth and diversity but growing health behavior concerns and "commuteability". Chicago with its economic challenges. Phoenix, with its emerging, growing urban hub, faces challenges with infrastructure. 
@@ -216,17 +217,16 @@ U.S. Census Bureau:
 
 
 ## Featured Notebooks/Analysis
-* [Master Notebook](link)
-* [HTML File]()
-* [HTML Map]()
-* [Chicago Notebook](link)
-* [Houston Notebook](link)
-* [New York Notebook](link)
-* [Los Angelous](link)
-* [Phoenix](link)
+* [Master Notebook](https://github.com/maddieemihle/major-city-visualization/blob/main/Master%20Analysis.ipynb)
+* [HTML File](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/index.html)
+* [HTML Map](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/map.html)
+* [Chicago Notebook](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/chicago_data/chicago_dataset.ipynb)
+* [Houston Notebook](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/houston_data/Houston_cleaned.ipynb)
+* [New York Notebook](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/ny_data/New%20York.ipynb)
+* [LA](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/la_data/Los%20Angeles%20Code.ipynb)
+* [Phoenix](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/phoenix_data/data_cleaning_phoenix.ipynb)
 
 ## Slideshow Presentation Link
-
 
 ## Sources Cited 
 
