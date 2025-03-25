@@ -1,4 +1,4 @@
-# Analyzing Major US Cities 
+# Data Analysis & Visualization for Metropolitan City Metrics
 
 This project is a part of the [Virtual Data Bootcamp at Vanderbilt University](https://bootcamps.vanderbilt.edu) with EdX. 
 
