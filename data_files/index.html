@@ -32,7 +32,7 @@
     <script>
         // Function to build the table
         function buildTable(city, metric) {
-            const filePath = `data_files/${city}_data/${city}_data.json`;
+            const filePath = `/data_files/${city}_data/${city}_data.json`;
             d3.json(filePath).then((data) => {
                 var result = data[metric];
                 var tableContainer = d3.select("#table-container");
