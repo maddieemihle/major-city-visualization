@@ -101,15 +101,16 @@ The findings were summarized to answer the project’s key questions.
 ## Results & Analysis 
 The analysis reveals significant trends, disparities, and correlations across the five major U.S. cities (Chicago, Houston, New York, Los Angeles, and Phoenix) in terms of demographic, economic, housing, and quality of life demographic metrics.
 
-#### Demographic Metrics 
+### Demographic Metrics 
 Demographic metrics provide a strong understanding of the population composition within urban areas, offering insights into age distribution, racial diversity, and educational attainment. These metrics are critical for analyzing the social fabric of cities and their potential for growth and inclusivity.
 
 This visualization highlights the five cities under analysis, showcasing their population sizes and exploring factors contributing to their growth. The results are as follows:
 
-**Growth Distribution**
+#### **Growth Distribution**:
+
 Based on the conclusions drawn and results, New York City has the largest population, significantly outpacing the other five cities, while Phoenix has the smallest population among the five cities. NYC’s size presents unique challenges for infrastructure, housing, and public services. However, cities like Phoenix and Houston show higher population growth rates, indicating their appeal as emerging urban hubs.
 
-**Median Age and Education Level by Population Density**
+#### **Median Age and Education Level by Population Density**:
 When looking at Population growth, it was found that: 
 1. **Population Density and Median Age**:
    - Cities with higher population density, such as New York and Chicago, tend to have slightly higher median ages than less dense cities like Phoenix and Houston.
@@ -127,10 +128,10 @@ Conclusion: Higher population density correlates with higher education levels an
 ![Population Density](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/median_age_and_education_level.png?raw=true)
 
 
-#### Economic Metrics 
+### Economic Metrics 
 Economic metrics provide valuable insights into a city’s financial health and stability. Analyzing data such as Median Household Income and Unemployment Rate can assess the economic disparities and opportunities within urban areas. These metrics allow us to explore the relationship between city size and economic performance. 
 
-**Median Household Income vs Unemployment Rate**
+#### **Median Household Income vs Unemployment Rate**:
 When looking at the visualization, it can be inferred that cities with a higher population density have a high median income but also relatively higher unemployment. Ex: 
 - **New York**: High population density and high median income, but also a relatively higher unemployment rate compared to other cities.
 - **Chicago**: Moderate population density and income, with a mid-range unemployment rate.
@@ -144,25 +145,25 @@ This shows that high-density cities (e.g., New York) face challenges such as hig
 
 Conclusion: while higher-income cities may have lower unemployment rates, other factors like population density, cost of living, and economic structure also play significant roles. Policymakers should consider these dynamics when addressing unemployment and income disparities in urban areas.
 
-#### Housing Metrics 
+### Housing Metrics 
 The visualization of poverty rate and median rent by population density rank provides insights into the relationship between urban density, economic conditions, and housing affordability. The results are as follows: 
 
-**Median Age and Education Level by Population Density**
+#### **Median Age and Education Level by Population Density**:
 When looking at the visualization, it can be inferred that cities with lower population density (e.g., Houston and Phoenix) tend to have slightly higher poverty rates compared to denser cities like New York and Chicago. However, median rent increases with population density. For example, New York, the most densely populated city, has the highest median rent, while Houston, the least dense, has the lowest. High-density cities like New York and Los Angeles face a dual challenge of high rents and significant poverty rates, highlighting affordability issues for low-income residents.
 
 ![Median Rent](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/poverty_rate_and_median_rent.png?raw=true)
 
 Conclusion: the visualization shows the complex interplay between population density, poverty, and housing costs, emphasizing the need for tailored strategies to address economic and housing challenges in different urban contexts.
 
-#### Quality of Life Metrics 
+### Quality of Life Metrics 
 Quality of life is a multifaceted concept encompassing various factors influencing the well-being and satisfaction of individuals within a city. Using data from the 2020 Census Database, the American Community Survey (ACS) by the U.S. Census Bureau, and the Environmental Protection Agency (EPA) Air Quality Index report, this analysis examines key metrics such as commute time, health behaviors, and air quality. These metrics provide valuable insights into the sustainability and livability of urban environments. The results are as follows: 
 
-**Commute Time**
+#### **Commute Time**:
 Cities like New York use public transportation significantly more, while cities like Houston and Phoenix depend more on personal vehicles. This could also suggest that more "urbanized" cities are more walking-friendly based on well-thought-out city planning. 
 
 ![Commute Time](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/commute_modes_by_city.png?raw=true)
 
-**Health Behaviors**
+#### **Health Behaviors**:
 Health behaviors provide critical insights into the well-being and lifestyle choices of populations within urban areas. The data highlights key metrics such as obesity rates, smoking prevalence, physical activity levels, and sleep patterns. These behaviors are directly linked to chronic diseases, mental health, and overall quality of life. The results are as follows: 
 
 1. **Obesity and Physical Inactivity**: Cities like Houston and Phoenix show higher rates of obesity and physical inactivity, which are linked to poorer health outcomes.
@@ -171,8 +172,9 @@ Health behaviors provide critical insights into the well-being and lifestyle cho
 
 ![Health Behaviors](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/health_behaviors.png?raw=true)
 
-**Air Quality Index** 
+#### **Air Quality Index**:
 The data on the number of good air quality days versus bad air quality days provides insights into the environmental conditions of the analyzed counties. Here are some insights: 
+
 1. **Environmental Quality**:
    - Counties with a higher number of good air quality days (e.g., New York) indicate better environmental conditions, likely due to stricter pollution controls, better urban planning, or favorable geographic factors.
    - Counties with more bad air quality days (e.g., Maricopa County (Phoenix)) may face challenges such as industrial emissions, vehicle pollution, or unfavorable weather patterns that trap pollutants.
