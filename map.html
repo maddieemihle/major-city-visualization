@@ -1,0 +1,151 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Population Density Map</title>
+
+  <!-- ✅ Leaflet CSS (no integrity checks to break things) -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+    }
+    #map {
+      height: 100vh;
+      width: 100%;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- ✅ Map container MUST exist before script runs -->
+  <div id="map"></div>
+
+  <!-- ✅ Leaflet JS loaded BEFORE your map code -->
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+
+  <!-- ✅ Your complete Leaflet map + JSON script -->
+  <script>
+    const cities = {
+      "Chicago": {
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "population": 2746388,
+        "area_mi2": 227.6,
+        "density": 12068
+      },
+      "Houston": {
+        "lat": 29.7604,
+        "lon": -95.3698,
+        "population": 2304580,
+        "area_mi2": 637.5,
+        "density": 3615
+      },
+      "New York": {
+        "lat": 40.7128,
+        "lon": -74.0060,
+        "population": 8804190,
+        "area_mi2": 302.6,
+        "density": 29099
+      },
+      "Phoenix": {
+        "lat": 33.4484,
+        "lon": -112.0740,
+        "population": 1608139,
+        "area_mi2": 517.9,
+        "density": 3105
+      },
+      "Los Angeles": {
+        "lat": 34.0522,
+        "lon": -118.2437,
+        "population": 3898747,
+        "area_mi2": 503.0,
+        "density": 7749
+      }
+    };
+
+    const map = L.map('map').setView([39.8283, -98.5795], 4);
+
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 18,
+      attribution: '© OpenStreetMap contributors'
+    }).addTo(map);
+
+    // Floating info card
+    const card = document.createElement('div');
+    card.style.position = 'absolute';
+    card.style.top = '20px';
+    card.style.right = '20px';
+    card.style.padding = '12px';
+    card.style.background = '#ffffffee';
+    card.style.boxShadow = '0 0 10px rgba(0,0,0,0.2)';
+    card.style.borderRadius = '8px';
+    card.style.fontFamily = 'Arial, sans-serif';
+    card.style.zIndex = 1000;
+    card.innerHTML = "<b>Click a city</b>";
+    document.body.appendChild(card);
+
+    function getColor(density) {
+      return density > 30000 ? '#08519c' :
+             density > 10000 ? '#3182bd' :
+             density > 5000  ? '#6baed6' :
+             density > 2000  ? '#9ecae1' : '#c6dbef';
+    }
+
+    for (const [city, data] of Object.entries(cities)) {
+      if (!data.population) continue;
+
+      const color = getColor(data.density);
+      const radius = data.density * 15; // more dramatic scale
+
+      const circle = L.circle([data.lat, data.lon], {
+        color: color,
+        fillColor: color,
+        fillOpacity: 0.7,
+        radius: radius
+      }).addTo(map);
+
+      circle.on('click', () => {
+        card.innerHTML = `
+          <h3 style="margin-top:0">${city}</h3>
+          <strong>Population:</strong> ${data.population.toLocaleString()}<br>
+          <strong>Area:</strong> ${data.area_mi2.toLocaleString()} mi²<br>
+          <strong>Density:</strong> ${data.density.toLocaleString()} per mi²
+        `;
+      });
+
+      circle.bindPopup(`<b>${city}</b><br>Density: ${data.density.toLocaleString()} per mi²`);
+    }
+
+    // Add legend
+    const legend = L.control({ position: 'bottomright' });
+
+    legend.onAdd = function () {
+      const div = L.DomUtil.create('div', 'info legend');
+      const grades = [0, 2000, 5000, 10000, 30000];
+
+      div.style.background = '#fff';
+      div.style.padding = '10px';
+      div.style.borderRadius = '6px';
+      div.style.boxShadow = '0 0 8px rgba(0,0,0,0.15)';
+      div.style.font = '14px Arial, sans-serif';
+      div.innerHTML += "<strong>Population Density</strong><br>";
+
+      for (let i = grades.length - 1; i >= 0; i--) {
+        const from = grades[i];
+        const to = grades[i + 1];
+
+        div.innerHTML +=
+          `<i style="background:${getColor(from)};width:18px;height:18px;float:left;margin-right:8px;opacity:0.7"></i> ` +
+          `${from.toLocaleString()}${to ? '&ndash;' + to.toLocaleString() : '+'}<br>`;
+      }
+
+      return div;
+    };
+
+    legend.addTo(map);
+  </script>
+</body>
+</html>
