@@ -283,5 +283,37 @@
       "Median Rent Price": "(X)",
       "No rent paid": "(X)"
     }
+  ],
+  "health behaviors": [
+    {
+        "Entity properties name":"Phoenix",
+        "Variable observation date":2020,
+        "Variable observation value":32.7,
+        "Variable properties name":"Percentage of Adult Population That Sleeps Less Than 7 Hours Per Night"
+    },
+    {
+        "Entity properties name":"Phoenix",
+        "Variable observation date":2020,
+        "Variable observation value":32.1,
+        "Variable properties name":"Percentage of Adult Population That Is Obese"
+    },
+    {
+        "Entity properties name":"Phoenix",
+        "Variable observation date":2020,
+        "Variable observation value":15.7,
+        "Variable properties name":"Percentage of Adult Population Who Binge Drink"
+    },
+    {
+        "Entity properties name":"Phoenix",
+        "Variable observation date":2020,
+        "Variable observation value":24.6,
+        "Variable properties name":"Percentage of Adult Population Who Are Physically Inactive"
+    },
+    {
+        "Entity properties name":"Phoenix",
+        "Variable observation date":2020,
+        "Variable observation value":16.3,
+        "Variable properties name":"Percentage of Adult Population That Smokes"
+    }
   ]
 }

@@ -76,5 +76,37 @@
     "race": [
       {"Category": "Estimate", "Total Population": "5,169,517", "White": "3,041,776", "Black or African American": "1,263,902", "American Indian and Alaska Native": "43,551", "Asian": "445,203", "Native Hawaiian and Other Pacific Islander": "6,818", "Other": "640,553"},
       {"Category": "Percent", "Total Population": "5,169,517", "White": "58.8%", "Black or African American": "24.4%", "American Indian and Alaska Native": "0.8%", "Asian": "8.6%", "Native Hawaiian and Other Pacific Islander": "0.1%", "Other": "12.4%"}
+    ],
+    "health behaviors": [
+      {
+          "Entity properties name":"Houston",
+          "Variable observation date":2020,
+          "Variable observation value":33.9,
+          "Variable properties name":"Percentage of Adult Population That Sleeps Less Than 7 Hours Per Night"
+      },
+      {
+          "Entity properties name":"Houston",
+          "Variable observation date":2020,
+          "Variable observation value":38.6,
+          "Variable properties name":"Percentage of Adult Population That Is Obese"
+      },
+      {
+          "Entity properties name":"Houston",
+          "Variable observation date":2020,
+          "Variable observation value":17.5,
+          "Variable properties name":"Percentage of Adult Population Who Binge Drink"
+      },
+      {
+          "Entity properties name":"Houston",
+          "Variable observation date":2020,
+          "Variable observation value":31.0,
+          "Variable properties name":"Percentage of Adult Population Who Are Physically Inactive"
+      },
+      {
+          "Entity properties name":"Houston",
+          "Variable observation date":2020,
+          "Variable observation value":17.6,
+          "Variable properties name":"Percentage of Adult Population That Smokes"
+      }
     ]
   }

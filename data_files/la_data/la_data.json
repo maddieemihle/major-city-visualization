@@ -283,5 +283,37 @@
       "Median Rent Price": "(X)",
       "No rent paid": "(X)"
     }
+  ],
+  "health behaviors": [
+    {
+        "Entity properties name":"Los Angeles",
+        "Variable observation date":2020,
+        "Variable observation value":33.2,
+        "Variable properties name":"Percentage of Adult Population That Sleeps Less Than 7 Hours Per Night"
+    },
+    {
+        "Entity properties name":"Los Angeles",
+        "Variable observation date":2020,
+        "Variable observation value":29.7,
+        "Variable properties name":"Percentage of Adult Population That Is Obese"
+    },
+    {
+        "Entity properties name":"Los Angeles",
+        "Variable observation date":2020,
+        "Variable observation value":16.9,
+        "Variable properties name":"Percentage of Adult Population Who Binge Drink"
+    },
+    {
+        "Entity properties name":"Los Angeles",
+        "Variable observation date":2020,
+        "Variable observation value":22.5,
+        "Variable properties name":"Percentage of Adult Population Who Are Physically Inactive"
+    },
+    {
+        "Entity properties name":"Los Angeles",
+        "Variable observation date":2020,
+        "Variable observation value":11.3,
+        "Variable properties name":"Percentage of Adult Population That Smokes"
+    }
   ]
 }

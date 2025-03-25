@@ -338,5 +338,37 @@
       "Native Hawaiian and Other Pacific Islander": "0.2%",
       "Other": "14.4%"
     }
+  ],
+  "health behaviors": [
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":35.4,
+        "Variable properties name":"Percentage of Adult Population That Sleeps Less Than 7 Hours Per Night"
+    },
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":25.2,
+        "Variable properties name":"Percentage of Adult Population That Is Obese"
+    },
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":15.6,
+        "Variable properties name":"Percentage of Adult Population Who Binge Drink"
+    },
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":28.7,
+        "Variable properties name":"Percentage of Adult Population Who Are Physically Inactive"
+    },
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":14.3,
+        "Variable properties name":"Percentage of Adult Population That Smokes"
+    }
   ]
 }
