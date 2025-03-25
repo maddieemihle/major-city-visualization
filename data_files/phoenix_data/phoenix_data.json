@@ -1,0 +1,287 @@
+{
+  "commute": [
+    {
+      "Category": "Workers 16 years and over",
+      "Total Estimate": "2,100,872",
+      "Male": "1,132,945",
+      "Female": "967,927"
+    },
+    {
+      "Category": "Car, truck, or van",
+      "Total Estimate": "84.4%",
+      "Male": "84.8%",
+      "Female": "83.9%"
+    },
+    {
+      "Category": "Drove alone",
+      "Total Estimate": "73.7%",
+      "Male": "74.5%",
+      "Female": "72.8%"
+    },
+    {
+      "Category": "Carpooled",
+      "Total Estimate": "10.7%",
+      "Male": "10.4%",
+      "Female": "11.1%"
+    },
+    {
+      "Category": "In 2-person carpool",
+      "Total Estimate": "8.2%",
+      "Male": "7.9%",
+      "Female": "8.5%"
+    },
+    {
+      "Category": "In 3-person carpool",
+      "Total Estimate": "1.6%",
+      "Male": "1.5%",
+      "Female": "1.7%"
+    },
+    {
+      "Category": "In 4-or-more person carpool",
+      "Total Estimate": "1.0%",
+      "Male": "1.0%",
+      "Female": "0.9%"
+    },
+    {
+      "Category": "Workers per car, truck, or van",
+      "Total Estimate": "1.08",
+      "Male": "1.07",
+      "Female": "1.08"
+    },
+    {
+      "Category": "Public transportation (excluding taxicab)",
+      "Total Estimate": "1.8%",
+      "Male": "1.7%",
+      "Female": "1.8%"
+    },
+    {
+      "Category": "Walked",
+      "Total Estimate": "1.5%",
+      "Male": "1.5%",
+      "Female": "1.4%"
+    },
+    {
+      "Category": "Bicycle",
+      "Total Estimate": "0.7%",
+      "Male": "0.9%",
+      "Female": "0.4%"
+    },
+    {
+      "Category": "Taxicab, motorcycle, or other means",
+      "Total Estimate": "1.8%",
+      "Male": "2.2%",
+      "Female": "1.4%"
+    },
+    {
+      "Category": "Worked from home",
+      "Total Estimate": "9.8%",
+      "Male": "8.8%",
+      "Female": "11.0%"
+    }
+  ],
+  "unemployment": [
+    {
+      "Age Group": "Population 16 years and over",
+      "Total": "3,482,330",
+      "Labor Force Participation": "64.6%",
+      "Employment Population Ratio": "61.1%",
+      "Unemployment Rate": "5.1%"
+    },
+    {
+      "Age Group": "16 to 19 years",
+      "Total": "236,881",
+      "Labor Force Participation": "41.1%",
+      "Employment Population Ratio": "33.4%",
+      "Unemployment Rate": "18.4%"
+    },
+    {
+      "Age Group": "20 to 24 years",
+      "Total": "293,079",
+      "Labor Force Participation": "80.1%",
+      "Employment Population Ratio": "73.1%",
+      "Unemployment Rate": "8.1%"
+    },
+    {
+      "Age Group": "25 to 29 years",
+      "Total": "334,251",
+      "Labor Force Participation": "83.7%",
+      "Employment Population Ratio": "78.7%",
+      "Unemployment Rate": "5.6%"
+    },
+    {
+      "Age Group": "30 to 34 years",
+      "Total": "311,442",
+      "Labor Force Participation": "83.0%",
+      "Employment Population Ratio": "78.7%",
+      "Unemployment Rate": "4.9%"
+    }
+  ],
+  "income": [
+    {
+      "Category": "Total",
+      "Household": "1,991,474",
+      "Families": "1,183,425",
+      "Married-couple Households": "807,194",
+      "Nonfamily Households": "808,049"
+    },
+    {
+      "Category": "Less than $10,000",
+      "Household": "7.1%",
+      "Families": "4.0%",
+      "Married-couple Households": "1.4%",
+      "Nonfamily Households": "12.2%"
+    },
+    {
+      "Category": "$10,000 to $14,999",
+      "Household": "3.8%",
+      "Families": "2.2%",
+      "Married-couple Households": "1.1%",
+      "Nonfamily Households": "6.5%"
+    },
+    {
+      "Category": "$15,000 to $24,999",
+      "Household": "8.3%",
+      "Families": "6.1%",
+      "Married-couple Households": "3.5%",
+      "Nonfamily Households": "12.0%"
+    },
+    {
+      "Category": "$25,000 to $34,999",
+      "Household": "8.1%",
+      "Families": "7.1%",
+      "Married-couple Households": "5.0%",
+      "Nonfamily Households": "9.9%"
+    },
+    {
+      "Category": "$35,000 to $49,999",
+      "Household": "10.8%",
+      "Families": "10.2%",
+      "Married-couple Households": "7.9%",
+      "Nonfamily Households": "11.9%"
+    },
+    {
+      "Category": "$50,000 to $74,999",
+      "Household": "15.9%",
+      "Families": "15.2%",
+      "Married-couple Households": "13.8%",
+      "Nonfamily Households": "16.9%"
+    },
+    {
+      "Category": "$75,000 to $99,999",
+      "Household": "12.3%",
+      "Families": "12.8%",
+      "Married-couple Households": "10.8%",
+      "Nonfamily Households": "13.5%"
+    }
+  ],
+  "education": [
+    {
+      "Age by Educational Attainment": "Population 25 years and over",
+      "Total": "4,621,398",
+      "Male": "2,214,515",
+      "Female": "2,407,883"
+    },
+    {
+      "Age by Educational Attainment": "High school graduate or higher",
+      "Total": "3,757,688",
+      "Male": "1,719,997",
+      "Female": "2,037,691"
+    },
+    {
+      "Age by Educational Attainment": "Bachelor's degree or higher",
+      "Total": "2,620,196",
+      "Male": "1,262,145",
+      "Female": "1,358,051"
+    }
+  ],
+  "age": [
+    {
+      "Category": "Estimate",
+      "Total Population": "5,169,517",
+      "Under 5": "315,368",
+      "5 to 9": "302,232",
+      "10 to 14": "322,415",
+      "15 to 19": "310,116",
+      "20 to 24": "334,453",
+      "25 to 34": "844,827",
+      "35 to 44": "699,725",
+      "45 to 54": "647,738",
+      "55 to 59": "330,348",
+      "60 to 64": "304,607",
+      "65 to 74": "433,863",
+      "75 to 84": "219,634",
+      "85 and Over": "104,191",
+      "Median Age": "37.0"
+    },
+    {
+      "Category": "Percent",
+      "Total Population": "5,169,517",
+      "Under 5": "6.1%",
+      "5 to 9": "5.8%",
+      "10 to 14": "6.2%",
+      "15 to 19": "6.0%",
+      "20 to 24": "6.5%",
+      "25 to 34": "16.3%",
+      "35 to 44": "13.5%",
+      "45 to 54": "12.5%",
+      "55 to 59": "6.4%",
+      "60 to 64": "5.9%",
+      "65 to 74": "8.4%",
+      "75 to 84": "4.2%",
+      "85 and Over": "2.0%",
+      "Median Age": "(X)"
+    }
+  ],
+  "race": [
+    {
+      "Category": "Estimate",
+      "Total Population": "5,169,517",
+      "White": "3,041,776",
+      "Black or African American": "1,263,902",
+      "American Indian and Alaska Native": "43,551",
+      "Asian": "445,203",
+      "Native Hawaiian and Other Pacific Islander": "6,818",
+      "Other": "640,553"
+    },
+    {
+      "Category": "Percent",
+      "Total Population": "5,169,517",
+      "White": "58.8%",
+      "Black or African American": "24.4%",
+      "American Indian and Alaska Native": "0.8%",
+      "Asian": "8.6%",
+      "Native Hawaiian and Other Pacific Islander": "0.1%",
+      "Other": "12.4%"
+    }
+  ],
+  "rent": [
+    {
+      "Category": "Estimate",
+      "Total Housing Units": "1,795,219",
+      "Occupied Housing Units Paying Rent": "716,666",
+      "Less than $500": "25,671",
+      "$500 to $999": "256,351",
+      "$1,000 to $1,499": "274,196",
+      "$1,500 to $1,999": "115,480",
+      "$2,000 to $2,499": "27,320",
+      "$2,500 to $2,999": "8,892",
+      "$3,000 or more": "8,756",
+      "Median Rent Price": "1,115",
+      "No rent paid": "21,170"
+    },
+    {
+      "Category": "Percent",
+      "Total Housing Units": "1,795,219",
+      "Occupied Housing Units Paying Rent": "716,666",
+      "Less than $500": "3.6%",
+      "$500 to $999": "35.8%",
+      "$1,000 to $1,499": "38.3%",
+      "$1,500 to $1,999": "16.1%",
+      "$2,000 to $2,499": "3.8%",
+      "$2,500 to $2,999": "1.2%",
+      "$3,000 or more": "1.2%",
+      "Median Rent Price": "(X)",
+      "No rent paid": "(X)"
+    }
+  ]
+}
