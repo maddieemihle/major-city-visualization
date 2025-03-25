@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Chicago Data Visualization Dashboard</title>
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+</head>
+<body>
+    <h1>Chicago Data Visualization Dashboard</h1>
+    <form id="plot-form">
+        <label for="metric">Choose a metric:</label>
+        <select id="metric" name="metric">
+            <option value="commute">Commute</option>
+            <option value="unemployment">Unemployment</option>
+            <option value="income">Income</option>
+            <option value="education">Education</option>
+            <option value="age">Age</option>
+            <option value="race">Race</option>
+        </select>
+        <button type="submit">Generate Table</button>
+    </form>
+    <div id="table-container"></div>
+    <script>
+        // Function to build the table
+        function buildTable(metric) {
+            d3.json("/data_files/chicago_data/chicago_data.json").then((data) => {
+                var result = data[metric];
+                var tableContainer = d3.select("#table-container");
+                tableContainer.html("");
+
+                var table = tableContainer.append("table").attr("border", 1);
+                var thead = table.append("thead");
+                var tbody = table.append("tbody");
+
+                // Append the header row
+                thead.append("tr")
+                    .selectAll("th")
+                    .data(Object.keys(result[0]))
+                    .enter()
+                    .append("th")
+                    .text(d => d);
+
+                // Append the data rows
+                result.forEach(row => {
+                    var tr = tbody.append("tr");
+                    Object.values(row).forEach(value => {
+                        tr.append("td").text(value);
+                    });
+                });
+            }).catch(error => {
+                console.error('Error fetching the JSON data:', error);
+            });
+        }
+
+        // Function to initialize the dashboard
+        function init() {
+            d3.json("/data_files/chicago_data/chicago_data.json").then((data) => {
+                var metrics = Object.keys(data);
+                var dropdown = d3.select("#metric");
+                metrics.forEach((metric) => {
+                    dropdown.append("option").text(metric).property("value", metric);
+                });
+                var firstMetric = metrics[0];
+                buildTable(firstMetric);
+            }).catch(error => {
+                console.error('Error fetching the JSON data:', error);
+            });
+        }
+
+        // Function for event listener
+        function optionChanged(newMetric) {
+            buildTable(newMetric);
+        }
+
+        // Initialize the dashboard
+        init();
+
+        // Event listener for the dropdown menu
+        document.getElementById('plot-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            const metric = document.getElementById('metric').value;
+            optionChanged(metric);
+        });
+    </script>
+</body>
+</html>

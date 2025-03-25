@@ -63,7 +63,8 @@ def index():
 
 @app.route('/plot', methods=['POST'])
 def plot():
-    metric = request.form['metric']
+    data = request.get_json()
+    metric = data['metric']
     if metric == 'commute':
         fig = px.bar(chicago_commute_df, x='Category', y='Value', title='Commute Data')
     elif metric == 'unemployment':
