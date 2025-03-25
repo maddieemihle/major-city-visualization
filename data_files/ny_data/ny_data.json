@@ -1,0 +1,374 @@
+{
+  "commute": [
+    {
+      "Category": "Workers 16 years and over",
+      "Total Estimate": "2,508,211",
+      "Male": "1,305,661",
+      "Female": "1,202,550"
+    },
+    {
+      "Category": "Car, truck, or van",
+      "Total Estimate": "67.7%",
+      "Male": "68.9%",
+      "Female": "66.4%"
+    },
+    {
+      "Category": "Drove alone",
+      "Total Estimate": "59.9%",
+      "Male": "61.3%",
+      "Female": "58.4%"
+    },
+    {
+      "Category": "Carpooled",
+      "Total Estimate": "7.8%",
+      "Male": "7.6%",
+      "Female": "8.0%"
+    },
+    {
+      "Category": "In 2-person carpool",
+      "Total Estimate": "5.9%",
+      "Male": "5.7%",
+      "Female": "6.1%"
+    },
+    {
+      "Category": "In 3-person carpool",
+      "Total Estimate": "1.1%",
+      "Male": "1.1%",
+      "Female": "1.1%"
+    },
+    {
+      "Category": "In 4-or-more person carpool",
+      "Total Estimate": "0.8%",
+      "Male": "0.8%",
+      "Female": "0.8%"
+    },
+    {
+      "Category": "Workers per car, truck, or van",
+      "Total Estimate": "1.07",
+      "Male": "1.07",
+      "Female": "1.07"
+    },
+    {
+      "Category": "Public transportation (excluding taxicab)",
+      "Total Estimate": "17.8%",
+      "Male": "16.7%",
+      "Female": "19.0%"
+    },
+    {
+      "Category": "Walked",
+      "Total Estimate": "4.1%",
+      "Male": "4.0%",
+      "Female": "4.2%"
+    },
+    {
+      "Category": "Bicycle",
+      "Total Estimate": "1.0%",
+      "Male": "1.4%",
+      "Female": "0.6%"
+    },
+    {
+      "Category": "Taxicab, motorcycle, or other means",
+      "Total Estimate": "1.6%",
+      "Male": "1.5%",
+      "Female": "1.6%"
+    },
+    {
+      "Category": "Worked from home",
+      "Total Estimate": "7.8%",
+      "Male": "7.5%",
+      "Female": "8.1%"
+    }
+  ],
+  "unemployment": [
+    {
+      "Category": "Total",
+      "Household": "1,991,474",
+      "Families": "1,183,425",
+      "Married-couple Households": "807,194",
+      "Nonfamily Households": "808,049"
+    },
+    {
+      "Category": "Less than $10,000",
+      "Household": "7.1%",
+      "Families": "4.0%",
+      "Married-couple Households": "1.4%",
+      "Nonfamily Households": "12.2%"
+    },
+    {
+      "Category": "$10,000 to $14,999",
+      "Household": "3.8%",
+      "Families": "2.2%",
+      "Married-couple Households": "1.1%",
+      "Nonfamily Households": "6.5%"
+    },
+    {
+      "Category": "$15,000 to $24,999",
+      "Household": "8.3%",
+      "Families": "6.1%",
+      "Married-couple Households": "3.5%",
+      "Nonfamily Households": "12.0%"
+    },
+    {
+      "Category": "$25,000 to $34,999",
+      "Household": "8.1%",
+      "Families": "7.1%",
+      "Married-couple Households": "5.0%",
+      "Nonfamily Households": "9.9%"
+    },
+    {
+      "Category": "$35,000 to $49,999",
+      "Household": "10.8%",
+      "Families": "10.2%",
+      "Married-couple Households": "7.9%",
+      "Nonfamily Households": "11.9%"
+    },
+    {
+      "Category": "$50,000 to $74,999",
+      "Household": "15.9%",
+      "Families": "15.2%",
+      "Married-couple Households": "13.8%",
+      "Nonfamily Households": "16.9%"
+    },
+    {
+      "Category": "$75,000 to $99,999",
+      "Household": "12.3%",
+      "Families": "12.8%",
+      "Married-couple Households": "10.8%",
+      "Nonfamily Households": "13.5%"
+    }
+  ],
+  "income": [
+    {
+      "Category": "Total",
+      "Household": "1,991,474",
+      "Families": "1,183,425",
+      "Married-couple Households": "807,194",
+      "Nonfamily Households": "808,049"
+    },
+    {
+      "Category": "Less than $10,000",
+      "Household": "7.1%",
+      "Families": "4.0%",
+      "Married-couple Households": "1.4%",
+      "Nonfamily Households": "12.2%"
+    },
+    {
+      "Category": "$10,000 to $14,999",
+      "Household": "3.8%",
+      "Families": "2.2%",
+      "Married-couple Households": "1.1%",
+      "Nonfamily Households": "6.5%"
+    },
+    {
+      "Category": "$15,000 to $24,999",
+      "Household": "8.3%",
+      "Families": "6.1%",
+      "Married-couple Households": "3.5%",
+      "Nonfamily Households": "12.0%"
+    },
+    {
+      "Category": "$25,000 to $34,999",
+      "Household": "8.1%",
+      "Families": "7.1%",
+      "Married-couple Households": "5.0%",
+      "Nonfamily Households": "9.9%"
+    },
+    {
+      "Category": "$35,000 to $49,999",
+      "Household": "10.8%",
+      "Families": "10.2%",
+      "Married-couple Households": "7.9%",
+      "Nonfamily Households": "11.9%"
+    },
+    {
+      "Category": "$50,000 to $74,999",
+      "Household": "15.9%",
+      "Families": "15.2%",
+      "Married-couple Households": "13.8%",
+      "Nonfamily Households": "16.9%"
+    },
+    {
+      "Category": "$75,000 to $99,999",
+      "Household": "12.3%",
+      "Families": "12.8%",
+      "Married-couple Households": "10.8%",
+      "Nonfamily Households": "13.5%"
+    }
+  ],
+  "rent": [
+    {
+      "Category": "Estimate",
+      "Total Housing Units": "564,817",
+      "Less than $500": "58,842",
+      "$500 to $999": "82,255",
+      "$1,000 to $1,499": "97,901",
+      "$1,500 to $1,999": "75,759",
+      "$2,000 to $2,499": "72,109",
+      "$2,500 to $2,999": "52,899",
+      "$3,000 or more": "125,052",
+      "Median Rent Price": "1,787",
+      "No rent paid": "11,396"
+    },
+    {
+      "Category": "Percent",
+      "Total Housing Units": "564,817",
+      "Less than $500": "10.4%",
+      "$500 to $999": "14.6%",
+      "$1,000 to $1,499": "17.3%",
+      "$1,500 to $1,999": "13.4%",
+      "$2,000 to $2,499": "12.8%",
+      "$2,500 to $2,999": "9.4%",
+      "$3,000 or more": "22.1%",
+      "Median Rent Price": "(X)",
+      "No rent paid": "(X)"
+    }
+  ],
+  "education": [
+    {
+      "Age by Educational Attainment": "Population 35 to 44 years",
+      "Total": "233,553",
+      "Male": "116,087",
+      "Female": "117,466"
+    },
+    {
+      "Age by Educational Attainment": "High school graduate or higher",
+      "Total": "214,738",
+      "Male": "105,929",
+      "Female": "108,809"
+    },
+    {
+      "Age by Educational Attainment": "Bachelor's degree or higher",
+      "Total": "159,305",
+      "Male": "77,012",
+      "Female": "82,293"
+    },
+    {
+      "Age by Educational Attainment": "Population 45 to 64 years",
+      "Total": "383,565",
+      "Male": "187,229",
+      "Female": "196,336"
+    },
+    {
+      "Age by Educational Attainment": "High school graduate or higher",
+      "Total": "329,427",
+      "Male": "160,440",
+      "Female": "168,987"
+    },
+    {
+      "Age by Educational Attainment": "Bachelor's degree or higher",
+      "Total": "211,850",
+      "Male": "103,870",
+      "Female": "107,980"
+    },
+    {
+      "Age by Educational Attainment": "Population 65 years and over",
+      "Total": "270,750",
+      "Male": "110,790",
+      "Female": "159,960"
+    },
+    {
+      "Age by Educational Attainment": "High school graduate or higher",
+      "Total": "208,639",
+      "Male": "87,208",
+      "Female": "121,431"
+    },
+    {
+      "Age by Educational Attainment": "Bachelor's degree or higher",
+      "Total": "128,384",
+      "Male": "58,854",
+      "Female": "69,530"
+    }
+  ],
+  "age": [
+    {
+      "Category": "Estimate",
+      "Total Population": "1,629,153",
+      "Under 5": "77,025",
+      "5 to 9": "61,508",
+      "10 to 14": "61,066",
+      "15 to 19": "68,059",
+      "20 to 24": "111,192",
+      "25 to 34": "362,435",
+      "35 to 44": "233,553",
+      "45 to 54": "199,243",
+      "55 to 59": "95,799",
+      "60 to 64": "88,523",
+      "65 to 74": "147,216",
+      "75 to 84": "81,724",
+      "85 and Over": "41,810",
+      "Median Age": "37.7"
+    },
+    {
+      "Category": "Percent",
+      "Total Population": "1,629,153",
+      "Under 5": "4.7%",
+      "5 to 9": "3.8%",
+      "10 to 14": "3.7%",
+      "15 to 19": "4.2%",
+      "20 to 24": "6.8%",
+      "25 to 34": "22.2%",
+      "35 to 44": "14.3%",
+      "45 to 54": "12.2%",
+      "55 to 59": "5.9%",
+      "60 to 64": "5.4%",
+      "65 to 74": "9.0%",
+      "75 to 84": "5.0%",
+      "85 and Over": "2.6%",
+      "Median Age": "(X)"
+    }
+  ],
+  "race": [
+    {
+      "Category": "Estimate",
+      "Total Population": "1,629,153",
+      "White": "976,633",
+      "Black or African American": "276,040",
+      "American Indian and Alaska Native": "23,168",
+      "Asian": "225,191",
+      "Native Hawaiian and Other Pacific Islander": "2,816",
+      "Other": "235,303"
+    },
+    {
+      "Category": "Percent",
+      "Total Population": "1,629,153",
+      "White": "59.9%",
+      "Black or African American": "16.9%",
+      "American Indian and Alaska Native": "1.4%",
+      "Asian": "13.8%",
+      "Native Hawaiian and Other Pacific Islander": "0.2%",
+      "Other": "14.4%"
+    }
+  ],
+  "health behaviors": [
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":35.4,
+        "Variable properties name":"Percentage of Adult Population That Sleeps Less Than 7 Hours Per Night"
+    },
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":25.2,
+        "Variable properties name":"Percentage of Adult Population That Is Obese"
+    },
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":15.6,
+        "Variable properties name":"Percentage of Adult Population Who Binge Drink"
+    },
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":28.7,
+        "Variable properties name":"Percentage of Adult Population Who Are Physically Inactive"
+    },
+    {
+        "Entity properties name":"New York City",
+        "Variable observation date":2020,
+        "Variable observation value":14.3,
+        "Variable properties name":"Percentage of Adult Population That Smokes"
+    }
+  ]
+}
