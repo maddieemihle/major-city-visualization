@@ -1,0 +1,37 @@
+{
+    "Chicago": {
+        "lat": 41.8781,
+        "lon": -87.6298,
+        "population": 2746388,
+        "area_mi2": 227.6,
+        "density": 12067
+    },
+    "Houston": {
+        "lat": 29.7604,
+        "lon": -95.3698,
+        "population": 2304580,
+        "area_mi2": 637.5,
+        "density": 3615
+    },
+    "New York": {
+        "lat": 40.7128,
+        "lon": -74.006,
+        "population": 8804190,
+        "area_mi2": 302.6,
+        "density": 29095
+    },
+    "Phoenix": {
+        "lat": 33.4484,
+        "lon": -112.074,
+        "population": 1608139,
+        "area_mi2": 517.9,
+        "density": 3105
+    },
+    "Los Angeles": {
+        "lat": 34.0522,
+        "lon": -118.2437,
+        "population": 3898747,
+        "area_mi2": 503.0,
+        "density": 7751
+    }
+}

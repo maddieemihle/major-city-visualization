@@ -2,6 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>City Data Visualization Dashboard</title>
     <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
@@ -47,16 +48,16 @@
 <body>
     <div class="container">
         <h1 class="text-center">City Data Visualization Dashboard</h1>
-        
+
         <!-- Dropdown Form -->
         <form id="plot-form" class="form-inline justify-content-center">
             <div class="form-group">
                 <label for="city" class="mr-2">Choose a city:</label>
                 <select id="city" name="city" class="form-control mr-4">
                     <option value="chicago">Chicago</option>
-                    <option value="la">Los Angeles</option>
-                    <option value="ny">New York</option>
                     <option value="houston">Houston</option>
+                    <option value="ny">New York</option>
+                    <option value="la">Los Angeles</option>
                     <option value="phoenix">Phoenix</option>
                 </select>
             </div>
@@ -70,7 +71,7 @@
                     <option value="rent">Rent</option>
                     <option value="age">Age</option>
                     <option value="race">Race</option>
-                    <option value="health behaviors">Health Behavior</option>
+                    <option value="health behaviors">Health Behaviors</option>
                 </select>
             </div>
             <button type="submit" class="btn btn-primary">Generate Table</button>
@@ -80,68 +81,65 @@
         <div id="table-container" class="mt-4"></div>
 
         <!-- Map Section -->
-        <h2 class="text-center mt-5">Interactive Map</h2>
+        <h2 class="text-center mt-5">Interactive Bubble Map</h2>
         <div id="map"></div>
+    </div>
 
-        <script>
-            // Function to build the table
-            function buildTable(city, metric) {
-                const filePath = `/data_files/${city}_data/${city}_data.json`;
-                d3.json(filePath).then((data) => {
-                    var result = data[metric];
-                    var tableContainer = d3.select("#table-container");
-                    tableContainer.html("");
-    
-                    var table = tableContainer.append("table").attr("class", "table table-striped table-bordered");
-                    var thead = table.append("thead");
-                    var tbody = table.append("tbody");
-    
-                    // Append the header row
-                    thead.append("tr")
-                        .selectAll("th")
-                        .data(Object.keys(result[0]))
-                        .enter()
-                        .append("th")
-                        .text(d => d);
-    
-                    // Append the data rows
-                    result.forEach(row => {
-                        var tr = tbody.append("tr");
-                        Object.values(row).forEach(value => {
-                            tr.append("td").text(value);
-                        });
+    <script>
+        // Function to build the table
+        function buildTable(city, metric) {
+            const filePath = `/data_files/${city}_data/${city}_data.json`;
+
+            // Fetch the data and render the table
+            d3.json(filePath).then((data) => {
+                const result = data[metric];
+                const tableContainer = d3.select("#table-container");
+                tableContainer.html(""); // Clear any existing table
+
+                if (!result || result.length === 0) {
+                    tableContainer.html("<p class='text-danger'>No data available for the selected metric.</p>");
+                    return;
+                }
+
+                const table = tableContainer.append("table").attr("class", "table table-striped table-bordered");
+                const thead = table.append("thead").attr("class", "thead-dark");
+                const tbody = table.append("tbody");
+
+                // Append the header row
+                thead.append("tr")
+                    .selectAll("th")
+                    .data(Object.keys(result[0]))
+                    .enter()
+                    .append("th")
+                    .text(d => d);
+
+                // Append the data rows
+                result.forEach(row => {
+                    const tr = tbody.append("tr");
+                    Object.values(row).forEach(value => {
+                        tr.append("td").text(value);
                     });
-                }).catch(error => {
-                    console.error('Error fetching the JSON data:', error);
                 });
-            }
-    
-            // Function to initialize the dashboard
-            function init() {
-                const city = document.getElementById('city').value;
-                const metric = document.getElementById('metric').value;
-                buildTable(city, metric);
-            }
-    
-            // Function for event listener
-            function optionChanged() {
-                const city = document.getElementById('city').value;
-                const metric = document.getElementById('metric').value;
-                buildTable(city, metric);
-            }
-    
-            // Initialize the dashboard
-            init();
-    
-            // Event listener for the dropdown menu
-            document.getElementById('plot-form').addEventListener('submit', function(event) {
-                event.preventDefault();
-                optionChanged();
+            }).catch(error => {
+                console.error('Error fetching the JSON data:', error);
+                d3.select("#table-container").html("<p class='text-danger'>Failed to load data. Please try again later.</p>");
             });
-    
-            // Event listeners for the dropdown menus
-            document.getElementById('city').addEventListener('change', optionChanged);
-            document.getElementById('metric').addEventListener('change', optionChanged);  
+        }
+
+        // Initialize dropdown functionality
+        function initDropdown() {
+            const city = document.getElementById('city').value;
+            const metric = document.getElementById('metric').value;
+            buildTable(city, metric);
+        }
+
+        document.getElementById('plot-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            initDropdown();
+        });
+
+        // Initialize the page
+        initDropdown();
 
         // Interactive Map for Combined Population
         const map = L.map('map').setView([39.8283, -98.5795], 4); // Centered on the US
@@ -152,71 +150,68 @@
         }).addTo(map);
 
         // Combined population data
-        const combinedPopulation = [
+        const citiesData = [
             {
                 "City": "Chicago",
                 "Coordinates": [41.8781, -87.6298],
-                "Total Population": "5,169,517",
-                "White": "3,041,776",
-                "Black or African American": "1,263,902",
-                "Asian": "445,203",
-                "Other": "640,553"
+                "Total Population": 2746388
             },
             {
                 "City": "Houston",
                 "Coordinates": [29.7604, -95.3698],
-                "Total Population": "4,835,125",
-                "White": "2,666,766",
-                "Black or African American": "1,046,412",
-                "Asian": "409,092",
-                "Other": "1,722,952"
+                "Total Population": 2304580
             },
             {
                 "City": "New York",
                 "Coordinates": [40.7128, -74.0060],
-                "Total Population": "1,629,153",
-                "White": "976,633",
-                "Black or African American": "276,040",
-                "Asian": "225,191",
-                "Other": "235,303"
+                "Total Population": 8804190
             },
             {
                 "City": "Los Angeles",
                 "Coordinates": [34.0522, -118.2437],
-                "Total Population": "3,973,278",
-                "White": "2,187,180",
-                "Black or African American": "401,039",
-                "Asian": "541,935",
-                "Other": "1,058,349"
+                "Total Population": 3898747
             },
             {
                 "City": "Phoenix",
                 "Coordinates": [33.4484, -112.0740],
-                "Total Population": "4,412,779",
-                "White": "3,542,986",
-                "Black or African American": "316,952",
-                "Asian": "247,355",
-                "Other": "487,245"
+                "Total Population": 1608139
             }
         ];
 
-        // Add markers for each city
-        combinedPopulation.forEach(city => {
-            const marker = L.marker(city.Coordinates).addTo(map);
-            marker.bindPopup(`
-                <div>
-                    <h5>${city.City}</h5>
-                    <p><strong>Total Population:</strong> ${city["Total Population"]}</p>
-                    <p><strong>White:</strong> ${city.White}</p>
-                    <p><strong>Black or African American:</strong> ${city["Black or African American"]}</p>
-                    <p><strong>Asian:</strong> ${city.Asian}</p>
-                    <p><strong>Other:</strong> ${city.Other}</p>
-                </div>
-            `);
-        });
+    // Find the maximum population to normalize the radius
+    const maxPopulation = Math.max(...citiesData.map(city => city["Total Population"]));
 
-        // Initialize dropdown functionality
-        initDropdown();
-    </script>
+    // Add bubble markers for each city
+    citiesData.forEach(city => {
+        L.circleMarker(city.Coordinates, {
+            radius: (city["Total Population"] / maxPopulation) * 50, // Scale radius dynamically
+            color: city["Total Population"] > 4000000 ? 'red' : 'blue',
+            fillColor: city["Total Population"] > 4000000 ? 'red' : 'blue',
+            fillOpacity: 0.5,
+            weight: 1
+        })
+        .addTo(map)
+        .bindPopup(`
+            <div>
+                <h5>${city.City}</h5>
+                <p><strong>Total Population:</strong> ${city["Total Population"].toLocaleString()}</p>
+            </div>
+        `);
+    });
+
+    // Add a legend
+    const legend = L.control({ position: 'bottomright' });
+
+    legend.onAdd = function () {
+        const div = L.DomUtil.create('div', 'info legend');
+        div.innerHTML = `
+            <i style="background: #007bff; width: 10px; height: 10px; display: inline-block;"></i> Population Density<br>
+            <small>Bubble size proportional to population</small>
+        `;
+        return div;
+    };
+
+    legend.addTo(map);
+</script>
 </body>
 </html>
