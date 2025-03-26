@@ -196,7 +196,7 @@ The data on the number of good air quality days versus bad air quality days prov
 ![AQI Bad](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/bad_air_quality_days_by_county.png?raw=true)
 
 ## Conclusion
-Each city has its own strengths and weaknesses. New York has high economic opportunities but significant income inequality and housing challenges. Los Angeles, with its diverse and economically proven city, faces high unemployment and health behavior concerns. Houston, with its rapid growth and diversity but growing health behavior concerns and "commuteability". Chicago with its economic challenges. Phoenix, with its emerging, growing urban hub, faces challenges with infrastructure. 
+Each city has its own strengths and weaknesses. New York has high economic opportunities but significant income inequality and housing challenges. Los Angeles, with its diverse and economically proven city, faces high unemployment and health behavior concerns. Houston, with its rapid growth and diversity but growing health behavior concerns and "commutability.” Chicago with its economic challenges and growing population numbers. Phoenix, with its emerging, growing urban hub, faces challenges with infrastructure. 
 
 By leveraging insights from demographic, economic, health, and racial metrics, policymakers and stakeholders can develop targeted strategies to improve quality of life and foster sustainable growth in urban areas.
 
