@@ -233,7 +233,7 @@ U.S. Census Bureau:
 * [Phoenix](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/phoenix_data/data_cleaning_phoenix.ipynb)
 
 ## Slideshow Presentation Link
-* [Project 3](link)
+* [Project 3](https://github.com/maddieemihle/major-city-visualization/blob/main/Group%201%20Project%203%20Presentation%20Megacities%20final.pptx)
 
 ## Sources Cited 
 
