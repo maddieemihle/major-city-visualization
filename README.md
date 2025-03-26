@@ -6,7 +6,6 @@ This project is a part of the [Virtual Data Bootcamp at Vanderbilt University](h
 * Madison Mihle
 * Kat Hardy
 * Rohan Pathak
-* Travis Rogers
 * Rodrigo Sosa
 
 ## Project Objective
@@ -20,7 +19,6 @@ The objective of this project was to analyze and visualize four key metrics acro
 By integrating these metrics, the project helps show the interconnectedness of economic, demographic, and social metric factors to prove which city would be considered the "best" possible city to live in. 
 
 ### Methods Used
-* Descriptive Statistics 
 * Data Collection & Cleaning
 * Data Visualization 
 * Dashboard Development
@@ -43,10 +41,13 @@ This project focuses on analyzing and visualizing key metrics across five major 
 
 The analysis leverages data from reliable sources, including the U.S. Census Bureau and public health databases, to answer critical questions such as:
 
-* Which cities have higher population density? Does that affect economic stability, health outcomes, and quality of life? 
-* If a city is larger, will there be a higher median income but a higher unemployment rate? How do these cities differ in terms of economic stability? 
-* What are the key factors influencing population diversity and quality of life? (i.e., if a city is larger, will it have a higher median age and education level?)
-* How does city size relate to poverty rates and median rent? 
+1. Which cities have higher population density? Does that affect economic stability, health outcomes, and quality of life? 
+
+2. If a city is larger, will there be a higher median income but a higher unemployment rate? How do these cities differ in terms of economic stability? 
+
+3. What are the key factors influencing population diversity and quality of life? (i.e., if a city is larger, will it have a higher median age and education level?)
+
+4. How does city size relate to poverty rates and median rent? 
 
 Through interactive and static visualizations, including maps, tables, and various charts, the goal is to provide insights that foster a deeper understanding of urban challenges and opportunities, ultimately contributing to developing more equitable and sustainable cities.
 
@@ -171,7 +172,7 @@ Health behaviors provide critical insights into the well-being and lifestyle cho
 
 1. **Obesity and Physical Inactivity**: Cities like Houston and Phoenix show higher rates of obesity and physical inactivity, which are linked to poorer health outcomes.
 2. **Smoking and Binge Drinking**: Chicago has notable rates of smoking and binge drinking, indicating areas for public health intervention.
-3. **Sleep Patterns**:** New York City, known as "the city that never sleeps," has a higher percentage of adults reporting insufficient sleep.
+3. **Sleep Patterns**:** New York City has a higher percentage of adults reporting insufficient sleep.
 
 ![Health Behaviors](https://github.com/maddieemihle/major-city-visualization/blob/main/Images/health_behaviors.png?raw=true)
 
@@ -232,6 +233,7 @@ U.S. Census Bureau:
 * [Phoenix](https://github.com/maddieemihle/major-city-visualization/blob/main/data_files/phoenix_data/data_cleaning_phoenix.ipynb)
 
 ## Slideshow Presentation Link
+* [Project 3](link)
 
 ## Sources Cited 
 
